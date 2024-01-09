@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Algorithm Visualizer</title>
+
+    <!-- CSS FILES -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;700&display=swap" rel="stylesheet">
+
+
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="../static/css/bootstrap-icons.css" rel="stylesheet">
+
+    <link href="../static/css/apexcharts.css" rel="stylesheet">
+
+    <link href="../static/css/tooplate-mini-finance.css" rel="stylesheet">
+
+    <link href="../static/css/tooplate-mini-finance.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!--
+
+Tooplate 2135 Mini Finance
+
+https://www.tooplate.com/view/2135-mini-finance
+
+Bootstrap 5 Dashboard Admin Template
+
+-->
+</head>
+
+<body>
+    <header class="navbar sticky-top flex-md-nowrap">
+        <div class="col-md-3 col-lg-3 me-0 px-3 fs-6">
+            <a class="navbar-brand" href="index.html">
+                <i class="bi-box"></i>
+                Algorithm Visualizer
+            </a>
+        </div>
+    </header>
+
+    <div class="container-fluid">
+        <div class="row">
+            <nav id="sidebarMenu" class="col-md-3 col-lg-3 d-md-block sidebar collapse">
+                <div class="position-sticky py-4 px-3 sidebar-sticky">
+                    <ul class="nav flex-column h-100">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="/home1">
+                                <i class="bi-house-fill me-2"></i>
+                                Home
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="/uploadMarks">
+                                <i class="bi-house-fill me-2"></i>
+                                Get Result
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <main class="main-wrapper col-md-9 ms-sm-auto py-4 col-lg-9 px-md-4 border-start">
+                <div class="row" align="center">
+                    <div class="col-lg-12 col-12">
+                        <div class="custom-block bg-white">
+                            <div class="row" align="center">
+                                <div class="col-lg-12 mb-2">
+                                    <h6>Submit Form</h6>
+                                </div>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="text"
+                                        placeholder="Enter name of student" id="nameofstud">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <select id="gender" class="form-select mt-2" aria-label="Default select example">
+                                        <option value="" selected>Select gender</option>
+                                        <option value="male">Male</option>
+                                        <option value="female">Female</option>
+                                    </select>
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <select id="levelofedu" class="form-select mt-2"
+                                        aria-label="Default select example">
+                                        <option value="" selected>Parental level of education</option>
+                                        <option value="associate's degree">Associates degree</option>
+                                        <option value="bachelor's degree">Bachelor's degree</option>
+                                        <option value="high school">High school</option>
+                                        <option value="master's degree">Master's degree</option>
+                                        <option value="some college">Some college</option>
+                                        <option value="some high school">Some high school</option>
+                                    </select>
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <select id="testcourse" class="form-select mt-2"
+                                        aria-label="Default select example">
+                                        <option value="" selected>Test preparation course</option>
+                                        <option value="completed">Completed</option>
+                                        <option value="none">None</option>
+                                        <option value="Partialy complete">Partialy complete</option>
+                                    </select>
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Software Engineering score" id="SEscore">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Machine Learning score" id="MLscore">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="DBMS score" id="DBMSscore">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Elective 1 score" id="E1score">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Elective 2 score" id="E2score">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Attendance" id="attendance">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Study hours/Day" id="stuhour">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Assignment marks" id="assigmarks">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Time spent on social media in mins" id="socialmedia">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <select id="extaactivity" class="form-select mt-2"
+                                        aria-label="Default select example">
+                                        <option value="" selected>Participation in extra cirricular activities</option>
+                                        <option value="no">No</option>
+                                        <option value="partial yes">Partial yes</option>
+                                        <option value="yes">Yes</option>
+                                    </select>
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12">
+                                    <input class="form-control mb-lg-0 mb-md-0" type="number" value=""
+                                        placeholder="Previous sem percentage" id="presemmarks">
+                                </div><br><br><br>
+                                <div class="col-lg-12 col-12" align="center">
+                                    <button class="form-control" align="center" id="btnSubmit">
+                                        Submit
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+
+        </div>
+    </div>
+
+    <!-- JAVASCRIPT FILES -->
+    <script src="../static/js/jquery.min.js"></script>
+    <script src="../static/js/bootstrap.bundle.min.js"></script>
+    <script src="../static/js/custom.js"></script>
+
+    <script>
+        $('#btnSubmit').click(function () {
+            var nameofstud = $('#nameofstud').val().toString();
+            var gender = $('#gender').val().toString();
+            var levelofedu = $('#levelofedu').val().toString();
+            var testcourse = $('#testcourse').val().toString();
+            var SEscore = $('#SEscore').val().toString();
+            var MLscore = $('#MLscore').val().toString();
+            var DBMSscore = $('#DBMSscore').val().toString();
+            var E1score = $('#E1score').val().toString();
+            var E2score = $('#E2score').val().toString();
+            var attendance = $('#attendance').val().toString();
+            var stuhour = $('#stuhour').val().toString();
+            var assigmarks = $('#assigmarks').val().toString();
+            var socialmedia = $('#socialmedia').val().toString();
+            var extaactivity = $('#extaactivity').val().toString();
+            var presemmarks = $('#presemmarks').val().toString();
+
+            if (gender == "" || levelofedu == "" || testcourse == "" || SEscore == "" || MLscore == "" || DBMSscore == "" || E1score == "" || E2score == "" || attendance == "" || stuhour == "" || assigmarks == "" || socialmedia == "" || extaactivity == "" || presemmarks == "" || nameofstud == "") {
+                alert("Please enter details !")
+            }
+            else {
+                var data = {
+                    gender: gender, levelofedu: levelofedu, testcourse: testcourse, SEscore: SEscore,
+                    MLscore: MLscore, DBMSscore: DBMSscore, E1score: E1score, E2score: E2score,
+                    attendance: attendance, stuhour: stuhour, assigmarks: assigmarks, socialmedia: socialmedia,
+                    extaactivity: extaactivity, presemmarks: presemmarks
+                };
+                console.log(data);
+                $.ajax({
+                    type: "POST",
+                    url: "uploadMarks",
+                    data: data,
+                    success: function (data) {
+                        // alert(data);
+                        if (data.split('|')[0] == 'Pass') {
+                            Swal.fire({
+                                icon: "success",
+                                title: nameofstud +" is likely to be passed ! " + "Marks : " + data.split('|')[1] + " %",
+                                text: getCustomText(data),
+                            });
+                        }
+                        else if (data.split('|')[0] == 'Fail') {
+                            Swal.fire({
+                                icon: 'error',
+                                title:  nameofstud +" is likely to be failed ! " + "Marks : " + data.split('|')[1] + " %",
+                                text: getCustomText(data),
+                            })
+                        }
+                        else {
+                            Swal.fire(
+                                'Something went wrong !',
+                            )
+                        }
+                    },
+                    error: function (e) {
+                        console.log("ERROR : ", e);
+                        $("#btnSubmit").prop("disabled", false);
+                    }
+                });
+            
+
+            }
+
+        })
+
+        function getCustomText(data) {
+            var marks = parseFloat(data.split('|')[1]);
+            if (marks >= 90) {
+                return "Keep up the good work! Ensure a healthy balance between academics and extracurriculars.";
+            } else if (marks >= 70) {
+                return "Great job! Continue managing your time effectively. Consider exploring new academic interests.";
+            } else if (marks >= 50) {
+                return "Consider increasing study hours and balancing social media time. Explore time management strategies.";
+            } else {
+                return "Increase study hours gradually. Limit social media to create more focused study sessions.";
+            }
+        }
+    </script>
+
+
+</body>
+
+</html>

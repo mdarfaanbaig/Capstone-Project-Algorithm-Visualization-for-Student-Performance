@@ -1,0 +1,1015 @@
+Student_id,gender,parental level of education,test preparation course,Software Engineering score,Machine Learningscore,DBMS score,Elective 1 score,Elective 2 score,Attendance,Study hours/Day,Assignment marks,Time spent on social media in mins,Participation in extra cirricular activities,Current Sem percentage,Pass/Fail,Previous sem percentage
+1,female,bachelor's degree,none,72,72,74,88,69,86,3,15,90,no,75,Pass,83
+2,female,some college,completed,69,90,88,76,63,86,1,15,90,yes,77.2,Pass,94
+3,female,master's degree,none,90,95,93,95,56,86,2,15,90,no,85.8,Pass,70
+4,male,associate's degree,Partialy completed,47,57,44,94,40,85,2,15,90,yes,56.4,Fail,70
+5,male,some college,none,76,78,75,77,97,86,2,15,90,no,80.6,Pass,67
+6,female,associate's degree,none,71,83,78,73,81,81,2,15,90,yes,77.2,Pass,80
+7,female,some college,completed,88,95,92,73,74,86,2,15,90,partial yes,84.4,Pass,80
+8,male,some college,none,40,43,39,73,50,86,2,15,90,partial yes,49,Fail,80
+9,male,high school,completed,64,64,67,73,75,74,2,15,90,partial yes,68.6,Pass,80
+10,female,high school,none,38,60,50,73,57,71,2,15,90,partial yes,55.6,Fail,80
+11,male,associate's degree,Partialy completed,58,54,52,73,55,78,2,15,90,partial yes,58.4,Pass,84
+12,male,associate's degree,none,40,52,43,73,58,90,2,15,90,partial yes,53.2,Fail,84
+13,female,high school,none,65,81,73,73,53,91,2,15,90,partial yes,69,Pass,84
+14,male,some college,completed,78,72,70,73,59,65,2,15,90,no,70.4,Pass,84
+15,female,master's degree,none,50,53,58,73,50,66,2,15,90,yes,56.8,Pass,84
+16,female,some high school,Partialy completed,69,75,78,73,65,81,2,15,90,yes,72,Pass,83
+17,male,high school,none,88,89,86,73,55,81,2,15,90,yes,78.2,Pass,83
+18,female,some high school,none,18,32,28,73,66,81,2,15,90,yes,43.4,Fail,75
+19,male,master's degree,completed,46,42,46,73,57,81,2,15,90,yes,52.8,Fail,75
+20,female,associate's degree,Partialy completed,54,58,61,73,82,81,2,15,90,yes,65.6,Pass,75
+21,male,high school,none,66,69,63,73,53,81,2,15,90,yes,64.8,Pass,75
+22,female,some college,completed,65,75,70,73,77,81,2,15,90,yes,72,Pass,75
+23,male,some college,none,44,54,53,73,86,81,2,15,120,yes,62,Fail,75
+24,female,some high school,none,69,73,73,55,72,77,2,15,120,yes,68.4,Pass,75
+25,male,bachelor's degree,completed,74,71,80,55,90,77,2,19,120,yes,74,Pass,68
+26,male,master's degree,none,73,74,72,55,95,77,2,19,120,yes,73.8,Pass,68
+27,male,some college,none,69,54,55,55,57,77,2,19,120,yes,58,Pass,68
+28,female,bachelor's degree,Partialy completed,67,69,75,55,78,77,5,19,120,yes,68.8,Pass,68
+29,male,high school,none,70,70,65,55,83,77,5,19,120,yes,68.6,Pass,68
+30,female,master's degree,Partialy completed,62,70,75,55,95,77,5,19,120,yes,71.4,Pass,68
+31,female,some college,none,69,74,74,55,43,77,5,19,120,yes,63,Fail,68
+32,female,some college,none,63,65,61,55,64,77,5,19,120,yes,61.6,Pass,83
+33,female,master's degree,none,56,72,65,55,60,77,5,19,120,yes,61.6,Pass,94
+34,male,some college,Partialy completed,40,42,38,55,54,92,5,19,120,yes,45.8,Fail,70
+35,male,some college,none,97,87,82,55,52,94,5,19,120,yes,74.6,Pass,70
+36,male,associate's degree,completed,81,81,79,55,81,69,3,19,120,yes,75.4,Pass,67
+37,female,associate's degree,none,74,81,83,55,72,100,3,19,30,partial yes,73,Pass,80
+38,female,some high school,none,50,64,59,64,53,100,3,19,30,partial yes,58,Pass,80
+39,female,associate's degree,completed,75,90,88,63,75,98,3,19,30,partial yes,78.2,Pass,80
+40,male,associate's degree,none,57,56,57,61,89,97,3,19,30,partial yes,64,Pass,80
+41,male,associate's degree,none,55,61,54,89,32,82,3,19,30,partial yes,58.2,Fail,80
+42,female,associate's degree,Partialy completed,58,73,68,93,42,82,3,19,30,partial yes,66.8,Fail,84
+43,female,associate's degree,none,53,58,65,96,58,82,3,19,30,partial yes,66,Pass,84
+44,male,some college,completed,59,65,66,99,69,82,3,19,30,partial yes,71.6,Pass,84
+45,female,associate's degree,none,50,56,54,75,75,82,3,19,30,partial yes,62,Pass,84
+46,male,associate's degree,none,65,54,57,54,54,82,3,19,30,partial yes,56.8,Pass,84
+47,female,associate's degree,completed,55,65,62,86,65,82,3,19,30,partial yes,66.6,Pass,83
+48,female,high school,Partialy completed,66,71,76,92,71,82,3,19,30,partial yes,75.2,Pass,83
+49,female,associate's degree,completed,57,74,76,50,74,82,3,19,30,partial yes,66.2,Pass,75
+50,male,high school,completed,82,84,82,90,84,82,3,19,30,partial yes,84.4,Pass,75
+51,male,some college,none,53,55,48,77,55,82,3,19,30,no,57.6,Fail,75
+52,male,associate's degree,completed,77,69,68,66,69,82,3,19,30,no,69.8,Pass,75
+53,male,some college,none,53,44,42,66,44,82,1,19,30,no,49.8,Fail,75
+54,male,high school,none,88,78,75,66,78,80,1,19,30,no,77,Pass,75
+55,female,some high school,completed,71,84,87,66,84,80,1,19,30,no,78.4,Pass,75
+56,female,high school,none,33,41,43,66,41,80,1,19,30,no,44.8,Fail,68
+57,female,associate's degree,completed,82,85,86,30,85,80,1,19,30,no,73.6,Fail,68
+58,male,associate's degree,none,52,55,49,32,55,80,1,19,30,no,48.6,Fail,68
+59,male,some college,completed,58,59,58,36,59,80,1,19,30,no,54,Fail,68
+60,female,some high school,none,0,17,10,40,17,80,1,19,30,no,16.8,Fail,68
+61,male,bachelor's degree,completed,79,74,72,80,74,80,1,19,30,no,75.8,Pass,68
+62,male,some high school,Partialy completed,39,39,34,40,39,80,1,19,30,no,38.2,Fail,68
+63,male,associate's degree,none,62,61,55,66,61,80,1,19,30,no,61,Pass,70
+64,female,associate's degree,Partialy completed,69,80,71,91,80,75,1,19,30,no,78.2,Pass,72
+65,female,some high school,none,59,58,59,66,58,74,1,19,30,no,60,Pass,73
+66,male,some high school,Partialy completed,67,64,61,66,64,78,1,19,30,no,64.4,Pass,66
+67,male,some high school,none,45,37,37,66,37,79,1,19,30,yes,44.4,Fail,65
+68,female,some college,none,60,72,74,66,72,79,1,19,30,yes,68.8,Pass,85
+69,male,associate's degree,Partialy completed,61,58,56,66,58,79,1,19,30,yes,59.8,Pass,85
+70,female,associate's degree,none,39,64,57,66,64,84,4,19,30,yes,58,Fail,85
+71,female,some college,completed,58,63,73,66,63,84,4,19,30,yes,64.6,Pass,85
+72,male,some college,completed,63,55,63,66,54,84,4,19,30,yes,60.2,Pass,85
+73,female,associate's degree,none,41,51,48,66,63,84,4,19,30,yes,53.8,Fail,85
+74,male,some high school,none,61,57,56,66,34,84,4,19,30,yes,54.8,Fail,83
+75,male,some high school,none,49,49,41,66,82,84,4,19,30,yes,57.4,Fail,94
+76,male,associate's degree,Partialy completed,44,41,38,66,88,84,4,19,30,yes,55.4,Fail,70
+77,male,some high school,none,30,26,22,66,74,84,4,19,30,yes,43.6,Fail,70
+78,male,bachelor's degree,completed,80,78,81,66,67,84,4,19,30,yes,74.4,Pass,67
+79,female,some high school,completed,61,74,72,66,82,84,4,19,30,yes,71,Pass,80
+80,female,master's degree,none,62,68,68,66,74,84,4,19,30,yes,67.6,Pass,80
+81,female,associate's degree,none,47,49,50,66,36,84,4,19,30,yes,49.6,Fail,80
+82,male,high school,none,49,45,45,66,71,84,4,19,30,yes,55.2,Fail,80
+83,male,some college,completed,50,47,54,66,50,84,4,19,30,yes,53.4,Fail,80
+84,male,associate's degree,none,72,64,63,66,92,84,4,20,30,yes,71.4,Pass,84
+85,male,high school,none,42,39,34,66,82,84,4,20,30,yes,52.6,Fail,84
+86,female,some college,none,73,80,82,66,62,84,4,20,30,yes,72.6,Pass,84
+87,female,some college,Partialy completed,76,83,88,66,70,84,4,20,30,yes,76.6,Pass,84
+88,female,associate's degree,none,71,71,74,66,62,84,4,20,30,yes,68.8,Pass,84
+89,female,some college,none,58,70,67,66,62,84,4,20,30,yes,64.6,Pass,83
+90,female,some high school,none,73,86,82,66,67,84,4,20,30,yes,74.8,Pass,83
+91,female,bachelor's degree,Partialy completed,65,72,74,66,74,84,4,20,30,yes,70.2,Pass,75
+92,male,high school,none,27,34,36,66,89,84,4,20,30,yes,50.4,Fail,75
+93,male,high school,none,71,79,71,66,47,84,4,20,30,yes,66.8,Fail,75
+94,male,associate's degree,completed,43,45,50,66,90,84,4,20,30,yes,58.8,Fail,75
+95,female,some college,none,79,86,92,66,72,84,4,20,30,yes,79,Pass,75
+96,male,associate's degree,completed,78,81,82,66,100,84,4,20,30,yes,81.4,Pass,75
+97,male,some high school,completed,65,66,62,66,64,84,4,20,30,yes,64.6,Pass,75
+98,female,some college,completed,63,72,70,66,70,84,4,20,30,yes,68.2,Pass,68
+99,female,some college,none,58,67,62,66,72,90,4,20,30,yes,65,Pass,68
+100,female,bachelor's degree,none,65,67,62,66,98,90,4,20,30,yes,71.6,Pass,68
+101,male,some college,none,79,67,67,66,49,90,4,20,30,yes,65.6,Fail,68
+102,male,bachelor's degree,completed,68,74,74,66,47,90,4,20,30,yes,65.8,Fail,68
+103,female,associate's degree,none,85,91,89,66,54,90,4,20,30,yes,77,Pass,68
+104,male,high school,completed,60,44,47,66,100,90,4,20,30,yes,63.4,Fail,68
+105,male,some college,completed,98,86,90,66,74,90,4,20,30,yes,82.8,Pass,83
+106,female,some college,none,58,67,72,66,54,90,4,20,30,yes,63.4,Pass,94
+107,female,master's degree,none,87,100,100,66,63,90,4,14,30,yes,83.2,Pass,70
+108,male,associate's degree,completed,66,63,64,66,34,90,4,14,30,yes,58.6,Fail,70
+109,female,associate's degree,none,52,76,70,66,82,90,4,14,30,yes,69.2,Pass,67
+110,female,some high school,none,70,64,72,66,88,90,4,14,30,yes,72,Pass,80
+111,female,associate's degree,completed,77,89,98,66,74,90,4,14,30,yes,80.8,Pass,80
+112,male,high school,none,62,55,49,66,67,90,4,14,30,yes,59.8,Fail,80
+113,male,associate's degree,none,54,53,47,66,82,75,4,14,30,yes,60.4,Fail,80
+114,female,some college,none,51,58,54,66,74,91,4,14,30,yes,60.6,Pass,80
+115,female,bachelor's degree,completed,99,100,100,66,36,93,4,14,30,yes,80.2,Fail,84
+116,male,high school,none,84,77,74,66,71,97,4,14,30,yes,74.4,Pass,84
+117,female,bachelor's degree,none,75,85,82,66,50,95,4,14,30,yes,71.6,Pass,84
+118,female,bachelor's degree,Partialy completed,78,82,79,66,92,66,4,14,30,yes,79.4,Pass,84
+119,female,some high school,none,51,63,61,66,82,71,4,14,150,yes,64.6,Pass,84
+120,female,some college,none,55,69,65,66,62,72,1,10,150,yes,63.4,Pass,83
+121,female,bachelor's degree,completed,79,92,89,66,70,79,1,10,150,yes,79.2,Pass,83
+122,male,associate's degree,completed,91,89,92,77,62,78,1,10,150,yes,82.2,Pass,75
+123,female,some college,completed,88,93,93,70,62,78,1,10,150,yes,81.2,Pass,75
+124,male,high school,none,63,57,56,75,67,78,1,10,150,yes,63.6,Pass,75
+125,male,some college,Partialy completed,83,80,73,75,74,78,1,10,150,yes,77,Pass,75
+126,female,high school,none,87,95,86,75,89,78,1,10,150,partial yes,86.4,Pass,75
+127,male,some high school,none,72,68,67,75,47,78,1,10,150,partial yes,65.8,Fail,75
+128,male,some college,completed,65,77,74,75,90,78,1,10,150,partial yes,76.2,Pass,75
+129,male,master's degree,none,82,82,74,75,72,78,1,10,150,partial yes,77,Pass,68
+130,female,bachelor's degree,Partialy completed,51,49,51,75,100,78,1,10,150,partial yes,65.2,Fail,68
+131,male,master's degree,none,89,84,82,75,64,78,1,10,150,partial yes,78.8,Pass,68
+132,male,some high school,completed,53,37,40,75,70,78,1,10,150,partial yes,55,Fail,68
+133,male,some college,completed,87,74,70,75,72,80,1,10,150,partial yes,75.6,Pass,68
+134,female,some college,Partialy completed,75,81,84,75,98,67,1,12,150,partial yes,82.6,Pass,68
+135,male,bachelor's degree,completed,74,79,75,75,49,67,1,12,150,partial yes,70.4,Fail,68
+136,male,bachelor's degree,none,58,55,48,75,47,94,1,12,150,partial yes,56.6,Fail,70
+137,male,some high school,completed,51,54,41,75,54,100,1,12,150,partial yes,55,Fail,72
+138,male,high school,none,70,55,56,75,100,100,5,20,150,partial yes,71.2,Pass,73
+139,female,associate's degree,none,59,66,67,75,74,99,2,12,100,partial yes,68.2,Pass,66
+140,male,some college,completed,71,61,69,75,54,82,2,13,100,partial yes,66,Pass,65
+141,female,some high school,none,76,72,71,75,63,82,2,13,100,partial yes,71.4,Pass,85
+142,female,some college,none,59,62,64,75,34,82,2,14,100,partial yes,58.8,Fail,85
+143,female,some college,completed,42,55,54,75,82,82,2,15,100,partial yes,61.6,Fail,85
+144,male,high school,none,57,43,47,75,88,82,2,13,100,partial yes,62,Fail,85
+145,male,some college,Partialy completed,88,73,78,75,74,82,2,12,100,partial yes,77.6,Pass,85
+146,female,some college,none,22,39,33,75,67,82,2,11,100,partial yes,47.2,Fail,85
+147,male,some high school,none,88,84,75,80,82,82,2,16,100,partial yes,81.8,Pass,70
+148,male,associate's degree,none,73,68,66,80,74,82,2,16,100,partial yes,72.2,Pass,72
+149,female,bachelor's degree,completed,68,75,81,80,36,82,2,16,100,partial yes,68,Fail,73
+150,male,associate's degree,completed,100,100,93,98,71,82,2,16,100,partial yes,92.4,Pass,66
+151,male,some high school,completed,62,67,69,34,50,82,2,16,100,partial yes,56.4,Fail,65
+152,male,bachelor's degree,none,77,67,68,67,92,82,2,16,100,partial yes,74.2,Pass,85
+153,female,associate's degree,completed,59,70,66,78,82,82,2,16,100,partial yes,71,Pass,85
+154,male,bachelor's degree,none,54,49,47,45,62,82,2,16,100,partial yes,51.4,Fail,85
+155,male,some high school,none,62,67,61,45,70,82,2,16,200,partial yes,61,Fail,85
+156,female,some college,completed,70,89,88,45,62,83,2,16,200,partial yes,70.8,Fail,85
+157,female,high school,completed,66,74,78,45,62,83,2,16,200,partial yes,65,Fail,85
+158,male,some college,none,60,60,60,45,67,83,2,16,200,partial yes,58.4,Fail,70
+159,female,associate's degree,completed,61,86,87,45,74,83,2,16,200,partial yes,70.6,Fail,72
+160,male,associate's degree,none,66,62,64,89,89,83,2,16,200,partial yes,74,Pass,73
+161,male,associate's degree,completed,82,78,74,44,47,83,2,16,200,partial yes,65,Fail,70
+162,female,some college,completed,75,88,85,44,90,83,2,16,200,partial yes,76.4,Fail,70
+163,male,master's degree,none,49,53,52,67,72,83,2,16,200,partial yes,58.6,Fail,70
+164,male,high school,none,52,53,49,34,100,83,2,16,200,partial yes,57.6,Fail,95
+165,female,master's degree,none,81,92,91,89,64,83,2,16,200,partial yes,83.4,Pass,80
+166,female,bachelor's degree,completed,96,100,100,89,70,83,2,16,200,partial yes,91,Pass,80
+167,male,high school,completed,53,51,51,76,72,83,2,17,200,partial yes,60.6,Pass,80
+168,female,master's degree,completed,58,76,78,76,98,83,2,17,200,partial yes,77.2,Pass,80
+169,female,high school,completed,68,83,78,76,49,83,2,17,200,partial yes,70.8,Fail,80
+170,female,some college,completed,67,75,70,76,47,75,2,17,200,partial yes,67,Fail,80
+171,male,high school,completed,72,73,74,76,54,75,2,17,25,partial yes,69.8,Pass,80
+172,male,some high school,none,94,88,78,76,100,75,2,17,25,partial yes,87.2,Pass,80
+173,female,some college,none,79,86,81,55,74,75,2,17,25,partial yes,75,Pass,80
+174,female,associate's degree,none,63,67,70,55,54,75,2,17,25,partial yes,61.8,Pass,80
+175,female,bachelor's degree,completed,43,51,54,55,63,75,2,17,25,partial yes,53.2,Fail,80
+176,female,master's degree,completed,81,91,87,55,34,75,2,17,25,partial yes,69.6,Fail,80
+177,female,high school,completed,46,54,58,55,82,75,2,17,25,partial yes,59,Fail,80
+178,female,associate's degree,completed,71,77,77,55,88,75,2,17,25,partial yes,73.6,Pass,80
+179,female,master's degree,completed,52,70,62,88,74,90,2,17,25,partial yes,69.2,Pass,80
+180,female,some high school,completed,97,100,100,89,67,90,2,17,25,no,90.6,Pass,90
+181,male,master's degree,completed,62,68,75,55,82,90,2,17,25,no,68.4,Pass,69
+182,female,some college,none,46,64,66,55,74,90,2,17,25,no,61,Fail,69
+183,female,high school,none,50,50,47,55,36,90,2,17,25,no,47.6,Fail,69
+184,female,associate's degree,none,65,69,70,55,71,90,2,17,45,no,66,Pass,69
+185,male,some high school,completed,45,52,49,55,50,90,2,17,45,no,50.2,Fail,69
+186,male,associate's degree,completed,65,67,65,55,92,90,2,17,45,no,68.8,Pass,69
+187,male,high school,none,80,76,65,55,82,90,2,17,45,no,71.6,Pass,69
+188,male,some high school,completed,62,66,68,55,62,70,2,17,45,no,62.6,Pass,69
+189,male,some high school,none,48,52,45,55,70,70,2,17,45,no,54,Fail,69
+190,female,bachelor's degree,Partialy completed,77,88,87,55,62,70,2,17,45,no,73.8,Pass,69
+191,female,associate's degree,none,66,65,69,55,62,70,2,17,45,no,63.4,Pass,69
+192,male,some college,completed,76,83,79,55,67,70,2,17,45,no,72,Pass,69
+193,female,some high school,none,62,64,66,55,74,70,2,17,45,no,64.2,Pass,69
+194,male,some college,completed,77,62,62,61,89,70,2,17,45,no,70.2,Pass,69
+195,female,master's degree,completed,69,84,85,61,47,70,2,17,45,no,69.2,Fail,69
+196,male,associate's degree,none,61,55,52,61,90,70,2,13,45,no,63.8,Pass,69
+197,male,some high school,completed,59,69,65,61,72,70,2,13,45,no,65.2,Pass,69
+198,male,high school,none,55,56,51,61,100,70,2,13,45,no,64.6,Pass,89
+199,female,some college,Partialy completed,45,53,55,61,64,70,2,13,45,no,55.6,Fail,73
+200,female,bachelor's degree,none,78,79,76,61,70,70,2,13,45,no,72.8,Pass,73
+201,female,associate's degree,completed,67,84,86,61,72,70,2,13,45,no,74,Pass,73
+202,female,some college,none,65,81,77,61,98,70,2,13,45,no,76.4,Pass,73
+203,male,associate's degree,Partialy completed,69,77,69,61,49,70,2,13,45,no,65,Fail,73
+204,female,associate's degree,none,57,69,68,61,47,70,2,13,45,no,60.4,Fail,73
+205,male,some college,none,59,41,42,61,54,70,2,13,45,no,51.4,Fail,73
+206,male,some high school,completed,74,71,78,61,100,70,2,13,45,no,76.8,Pass,73
+207,male,bachelor's degree,none,82,62,62,61,74,70,2,13,45,no,68.2,Pass,73
+208,male,high school,completed,81,80,76,61,54,70,2,13,45,no,70.4,Pass,73
+209,female,some college,none,74,81,76,61,63,80,2,13,60,no,71,Pass,73
+210,female,some college,none,58,61,66,80,34,80,2,13,60,no,59.8,Fail,73
+211,male,some high school,completed,80,79,79,80,82,80,2,15,60,no,80,Pass,73
+212,male,some college,none,35,28,27,80,88,80,2,15,60,no,51.6,Fail,73
+213,female,high school,none,42,62,60,80,74,80,2,15,60,no,63.6,Fail,73
+214,male,associate's degree,completed,60,51,56,80,67,80,2,15,60,no,62.8,Pass,73
+215,male,high school,completed,87,91,81,80,82,80,2,15,60,no,84.2,Pass,65
+216,male,some high school,Partialy completed,84,83,75,80,74,80,2,15,60,no,79.2,Pass,85
+217,female,associate's degree,completed,83,86,88,80,36,80,2,15,60,no,74.6,Fail,85
+218,female,high school,none,34,42,39,80,71,80,2,15,60,no,53.2,Fail,85
+219,male,high school,none,66,77,70,80,50,80,2,20,60,yes,68.6,Pass,85
+220,male,some high school,completed,61,56,56,80,92,80,2,20,60,yes,69,Pass,85
+221,female,high school,completed,56,68,74,80,82,80,2,20,60,yes,72,Pass,85
+222,male,associate's degree,none,87,85,73,80,62,80,2,20,60,yes,77.4,Pass,65
+223,female,some high school,Partialy completed,55,65,62,80,70,80,2,20,60,yes,66.4,Pass,85
+224,male,some high school,none,86,80,75,80,62,80,2,20,60,yes,76.6,Pass,85
+225,female,associate's degree,completed,52,66,73,80,62,80,2,20,60,yes,66.6,Pass,85
+226,female,master's degree,none,45,56,54,40,67,90,2,20,60,yes,52.4,Fail,85
+227,female,some college,none,72,72,71,40,74,90,2,20,60,yes,65.8,Fail,85
+228,male,high school,none,57,50,54,55,89,90,2,20,60,yes,61,Pass,85
+229,male,some high school,none,68,72,64,55,47,90,2,10,60,yes,61.2,Fail,85
+230,female,some college,completed,88,95,94,55,90,90,2,10,60,yes,84.4,Pass,85
+231,male,some college,none,76,64,66,55,72,90,2,10,60,yes,66.6,Pass,85
+232,male,associate's degree,Partialy completed,46,43,42,66,100,90,2,10,60,yes,59.4,Fail,96
+233,female,bachelor's degree,none,67,86,83,66,64,90,2,10,60,yes,73.2,Pass,85
+234,male,some high school,none,92,87,78,66,70,90,2,10,60,yes,78.6,Pass,85
+235,male,bachelor's degree,completed,83,82,84,66,72,90,2,10,60,yes,77.4,Pass,70
+236,male,associate's degree,none,80,75,77,66,98,90,2,10,60,yes,79.2,Pass,72
+237,male,bachelor's degree,none,63,66,67,66,49,90,2,10,60,yes,62.2,Fail,73
+238,female,some high school,completed,64,60,74,66,47,90,2,10,60,yes,62.2,Fail,66
+239,male,some college,Partialy completed,54,52,51,66,54,90,2,10,60,yes,55.4,Pass,65
+240,male,associate's degree,none,84,80,80,66,100,90,2,10,60,yes,82,Pass,85
+241,male,high school,completed,73,68,66,66,74,90,2,10,60,yes,69.4,Pass,85
+242,female,bachelor's degree,none,80,83,83,66,83,90,2,14,60,yes,79,Pass,85
+243,female,high school,Partialy completed,56,52,55,66,55,90,2,14,60,yes,56.8,Pass,85
+244,male,some college,none,59,51,43,66,43,90,2,14,60,yes,52.4,Fail,85
+245,male,some high school,Partialy completed,75,74,69,66,69,90,2,14,60,yes,70.6,Pass,85
+246,male,associate's degree,none,85,76,71,66,71,90,2,14,60,yes,73.8,Pass,70
+247,male,associate's degree,none,89,76,74,66,74,90,2,14,60,yes,75.8,Pass,72
+248,female,high school,completed,58,70,68,66,68,90,2,14,60,yes,66,Pass,73
+249,female,high school,none,65,64,62,66,62,90,2,14,60,yes,63.8,Pass,70
+250,male,high school,none,68,60,53,66,53,90,2,14,75,yes,60,Pass,70
+251,male,some high school,completed,47,49,49,66,49,90,2,14,75,yes,52,Fail,83
+252,female,some college,none,71,83,83,66,83,90,2,14,75,yes,77.2,Pass,94
+253,female,some high school,completed,60,70,70,66,70,90,2,14,75,yes,67.2,Pass,70
+254,male,master's degree,none,80,80,72,66,72,86,2,14,75,yes,74,Pass,70
+255,male,high school,Partialy completed,54,52,52,66,52,86,2,14,75,yes,55.2,Pass,67
+256,female,some college,none,62,73,70,66,70,81,2,14,75,yes,68.2,Pass,80
+257,female,associate's degree,none,64,73,68,66,68,82,2,14,75,yes,67.8,Pass,80
+258,male,associate's degree,completed,78,77,77,66,77,83,2,14,75,yes,75,Pass,80
+259,female,some college,none,70,75,78,66,78,84,2,14,75,yes,73.4,Pass,80
+260,female,master's degree,completed,65,81,81,66,81,85,2,14,75,yes,74.8,Pass,80
+261,female,some high school,completed,64,79,77,66,77,86,2,14,75,yes,72.6,Pass,84
+262,male,some college,completed,79,79,78,66,78,87,2,16,75,yes,76,Pass,84
+263,female,some high school,none,44,50,51,66,51,88,2,16,75,yes,52.4,Fail,84
+264,female,high school,none,99,93,90,66,90,89,2,16,75,yes,87.6,Pass,84
+265,male,high school,Partialy completed,76,73,68,66,68,90,2,16,75,yes,70.2,Pass,84
+266,male,some high school,none,59,42,41,66,41,88,2,16,75,yes,49.8,Fail,83
+267,female,bachelor's degree,none,63,75,81,76,81,88,2,16,75,yes,75.2,Pass,83
+268,female,high school,none,69,72,77,76,77,88,2,16,75,yes,74.2,Pass,75
+269,female,associate's degree,completed,88,92,95,76,95,88,2,16,75,yes,89.2,Pass,75
+270,female,some college,none,71,76,70,76,70,88,2,16,75,yes,72.6,Pass,75
+271,male,bachelor's degree,Partialy completed,69,63,61,76,61,88,2,16,75,yes,66,Pass,75
+272,male,some college,none,58,49,42,76,42,88,2,16,80,yes,53.4,Fail,75
+273,female,associate's degree,none,47,53,58,76,58,88,2,16,80,yes,58.4,Fail,75
+274,female,some college,none,65,70,71,76,71,88,2,16,80,yes,70.6,Pass,75
+275,male,some college,completed,88,85,76,76,76,88,2,16,80,yes,80.2,Pass,68
+276,male,bachelor's degree,none,83,78,73,76,73,88,2,16,80,yes,76.6,Pass,68
+277,female,some high school,completed,85,92,93,76,93,88,2,16,80,yes,87.8,Pass,68
+278,female,high school,completed,59,63,75,76,75,88,2,16,80,yes,69.6,Pass,68
+279,female,some high school,none,65,86,80,76,80,88,2,16,80,yes,77.4,Pass,68
+280,male,bachelor's degree,Partialy completed,73,56,57,76,57,88,2,16,80,yes,63.8,Pass,68
+281,male,high school,none,53,52,42,34,42,88,2,20,80,yes,44.6,Fail,68
+282,male,high school,none,45,48,46,75,46,88,2,11,80,yes,52,Fail,83
+283,female,bachelor's degree,none,73,79,84,75,84,88,2,9,80,yes,79,Pass,94
+284,female,some college,completed,70,78,78,75,78,88,2,8,80,yes,75.8,Pass,83
+285,female,some high school,none,37,46,46,75,46,88,2,7,80,yes,50,Fail,94
+286,male,associate's degree,completed,81,82,82,75,82,88,2,11,80,yes,80.4,Pass,70
+287,male,associate's degree,completed,97,82,88,75,88,88,2,11,80,yes,86,Pass,70
+288,female,some high school,none,67,89,82,75,82,88,2,12,80,yes,79,Pass,67
+289,male,bachelor's degree,none,88,75,76,75,76,88,2,12,80,yes,78,Pass,80
+290,male,some high school,completed,77,76,77,75,77,88,2,12,80,yes,76.4,Pass,80
+291,male,associate's degree,none,76,70,68,75,68,88,2,12,80,yes,71.4,Pass,80
+292,male,some high school,none,86,73,70,75,70,88,2,12,80,yes,74.8,Pass,80
+293,male,some high school,completed,63,60,57,75,57,88,2,12,80,yes,62.4,Pass,80
+294,female,bachelor's degree,none,65,73,75,75,75,88,2,12,80,yes,72.6,Pass,84
+295,male,high school,completed,78,77,80,75,80,88,2,15,80,yes,78,Pass,84
+296,male,associate's degree,none,67,62,60,75,60,88,2,15,80,yes,64.8,Pass,84
+297,male,some high school,completed,46,41,43,75,43,88,2,15,80,yes,49.6,Fail,84
+298,male,associate's degree,completed,71,74,68,75,68,88,2,15,80,yes,71.2,Pass,84
+299,male,high school,completed,40,46,50,75,50,88,2,15,80,yes,52.2,Fail,83
+300,male,associate's degree,none,90,87,75,75,75,88,2,15,80,yes,80.4,Pass,83
+301,male,some college,completed,81,78,81,75,81,88,2,15,80,yes,79.2,Pass,75
+302,male,some high school,none,56,54,52,75,35,88,2,15,80,yes,54.4,Fail,75
+303,female,associate's degree,completed,67,84,81,75,58,88,2,15,80,yes,73,Pass,75
+304,male,associate's degree,none,80,76,64,75,61,88,2,15,40,yes,71.2,Pass,75
+305,female,associate's degree,completed,74,75,83,75,69,88,2,15,40,yes,75.2,Pass,75
+306,male,some college,none,69,67,69,75,67,88,2,18,40,yes,69.4,Pass,75
+307,male,some college,completed,99,87,81,75,79,88,2,18,40,yes,84.2,Pass,75
+308,male,some high school,none,51,52,44,75,72,88,2,18,40,yes,58.8,Fail,68
+309,female,associate's degree,Partialy completed,53,71,67,75,62,88,2,18,40,yes,65.6,Pass,68
+310,female,high school,none,49,57,52,75,77,88,2,18,40,yes,62,Fail,68
+311,female,associate's degree,Partialy completed,73,76,80,75,75,88,2,18,40,yes,75.8,Pass,68
+312,male,bachelor's degree,none,66,60,57,75,87,88,2,18,40,yes,69,Pass,68
+313,male,bachelor's degree,completed,67,61,68,75,52,88,2,18,40,yes,64.6,Pass,68
+314,female,associate's degree,completed,68,67,69,75,66,88,2,18,40,yes,69,Pass,68
+315,female,bachelor's degree,completed,59,64,75,75,63,88,2,18,40,yes,67.2,Pass,83
+316,male,high school,none,71,66,65,75,46,88,2,18,40,yes,64.6,Fail,94
+317,female,master's degree,completed,77,82,91,75,59,88,2,18,40,yes,76.8,Pass,83
+318,male,associate's degree,none,83,72,78,75,61,88,2,18,40,yes,73.8,Pass,94
+319,male,bachelor's degree,none,63,71,69,75,63,88,2,18,40,yes,68.2,Pass,70
+320,female,associate's degree,none,56,65,63,75,42,91,2,18,40,yes,60.2,Fail,70
+321,female,high school,completed,67,79,84,75,59,93,2,18,40,yes,72.8,Pass,67
+322,female,high school,none,75,86,79,75,80,94,2,18,40,yes,79,Pass,80
+323,female,some college,none,71,81,80,75,58,94,2,18,40,yes,73,Pass,80
+324,female,some high school,none,43,53,53,75,85,100,2,18,40,yes,61.8,Fail,80
+325,female,high school,Partialy completed,41,46,43,75,52,99,2,18,40,yes,51.4,Fail,80
+326,female,some college,none,82,90,94,75,27,99,2,18,40,yes,73.6,Fail,80
+327,male,some college,none,61,61,62,75,59,70,2,18,40,yes,63.6,Pass,84
+328,male,some college,Partialy completed,28,23,19,75,49,70,2,18,40,yes,38.8,Fail,84
+329,male,associate's degree,completed,82,75,77,75,69,70,2,18,40,yes,75.6,Pass,84
+330,female,some high school,none,41,55,51,75,61,70,2,18,40,yes,56.6,Fail,84
+331,male,high school,none,71,60,61,75,44,70,2,18,40,yes,62.2,Fail,84
+332,male,associate's degree,none,47,37,35,75,73,70,2,18,40,yes,53.4,Fail,83
+333,male,associate's degree,completed,62,56,53,75,84,70,2,18,40,yes,66,Pass,83
+334,male,associate's degree,none,90,78,81,75,45,70,2,18,40,yes,73.8,Fail,75
+335,female,bachelor's degree,Partialy completed,83,93,95,75,74,70,2,18,40,yes,84,Pass,75
+336,female,some college,none,61,68,66,75,82,70,2,18,40,yes,70.4,Pass,75
+337,male,some high school,completed,76,70,69,75,59,70,2,18,40,yes,69.8,Pass,75
+338,male,associate's degree,Partialy completed,49,51,43,75,46,70,2,18,40,yes,52.8,Fail,75
+339,female,some high school,none,24,38,27,75,80,70,2,18,40,yes,48.8,Fail,75
+340,female,some high school,completed,35,55,60,75,85,70,2,18,40,yes,62,Fail,75
+341,male,high school,none,58,61,52,75,71,70,2,18,40,yes,63.4,Pass,68
+342,female,high school,none,61,73,63,75,66,70,2,18,40,yes,67.6,Pass,68
+343,female,high school,completed,69,76,74,75,80,70,2,18,40,yes,74.8,Pass,68
+344,male,associate's degree,completed,67,72,67,75,87,70,2,18,40,yes,73.6,Pass,68
+345,male,some college,none,79,73,67,75,79,70,2,18,40,yes,74.6,Pass,68
+346,female,high school,none,72,80,75,75,38,70,2,18,40,yes,68,Fail,68
+347,male,some college,none,62,61,57,75,38,70,2,18,40,yes,58.6,Fail,68
+348,female,bachelor's degree,completed,77,94,95,75,67,70,2,18,40,yes,81.6,Pass,83
+349,male,high school,none,75,74,66,75,64,85,2,18,40,yes,70.8,Pass,94
+350,male,associate's degree,Partialy completed,87,74,76,75,57,85,2,18,40,yes,73.8,Pass,80
+351,female,bachelor's degree,none,52,65,69,75,62,85,2,18,40,yes,64.6,Pass,80
+352,male,some college,none,66,57,52,75,73,85,2,18,40,yes,64.6,Pass,80
+353,female,some college,completed,63,78,80,75,73,85,2,18,40,yes,73.8,Pass,80
+354,female,associate's degree,Partialy completed,46,58,57,75,77,85,2,18,40,yes,62.6,Fail,80
+355,female,some college,none,59,71,70,75,76,85,2,18,40,yes,70.2,Pass,80
+356,female,bachelor's degree,none,61,72,70,49,57,85,2,18,40,yes,61.8,Fail,80
+357,male,associate's degree,none,63,61,61,49,65,85,2,18,40,yes,59.8,Fail,80
+358,female,some college,completed,42,66,69,49,48,85,2,18,40,yes,54.8,Fail,70
+359,male,some college,none,59,62,61,49,50,85,2,18,40,yes,56.2,Fail,70
+360,female,some college,none,80,90,89,49,85,85,2,18,40,yes,78.6,Fail,70
+361,female,high school,none,58,62,59,49,74,85,2,18,40,yes,60.4,Fail,70
+362,male,some high school,completed,85,84,78,49,60,85,2,18,40,yes,71.2,Fail,70
+363,female,some college,Partialy completed,52,58,58,49,59,85,2,18,40,yes,55.2,Fail,80
+364,female,some high school,none,27,34,32,49,53,85,2,18,40,yes,39,Fail,80
+365,male,some college,none,59,60,58,49,49,85,2,18,40,yes,55,Fail,80
+366,male,bachelor's degree,completed,49,58,60,49,88,85,2,18,40,yes,60.8,Fail,80
+367,male,high school,completed,69,58,53,49,54,85,2,18,40,yes,56.6,Fail,80
+368,male,bachelor's degree,none,61,66,61,49,63,85,2,18,40,yes,60,Fail,80
+369,female,some high school,none,44,64,58,49,65,85,2,18,40,yes,56,Fail,80
+370,female,some high school,none,73,84,85,49,82,85,2,18,40,yes,74.6,Fail,80
+371,male,some college,Partialy completed,84,77,71,49,52,85,2,18,40,yes,66.6,Fail,70
+372,female,some college,completed,45,73,70,49,87,85,2,18,40,yes,64.8,Fail,70
+373,male,some high school,none,74,74,72,49,70,85,2,18,40,yes,67.8,Fail,70
+374,female,some college,completed,82,97,96,49,84,95,2,18,40,yes,81.6,Fail,70
+375,female,bachelor's degree,none,59,70,73,49,71,95,2,18,40,yes,64.4,Fail,70
+376,male,associate's degree,none,46,43,41,49,63,95,2,18,40,yes,48.4,Fail,67
+377,female,some high school,none,80,90,82,49,51,95,2,18,40,yes,70.4,Fail,65
+378,female,master's degree,completed,85,95,100,97,84,95,2,18,40,yes,92.2,Pass,67
+379,female,some high school,none,71,83,77,49,71,95,2,14,40,yes,70.2,Fail,68
+380,male,bachelor's degree,Partialy completed,66,64,62,49,74,95,2,14,40,yes,63,Fail,59
+381,female,associate's degree,none,80,86,83,49,68,95,2,14,40,yes,73.2,Fail,78
+382,male,associate's degree,completed,87,100,95,49,57,95,2,14,40,yes,77.6,Fail,65
+383,male,master's degree,none,79,81,71,83,82,95,2,14,40,yes,79.2,Pass,80
+384,female,some high school,none,38,49,45,83,57,95,2,14,40,yes,54.4,Fail,80
+385,female,some high school,none,38,43,43,83,47,95,2,14,40,yes,50.8,Fail,80
+386,female,some college,Partialy completed,67,76,75,83,59,95,2,14,40,yes,72,Pass,80
+387,female,bachelor's degree,Partialy completed,64,73,70,83,41,95,2,14,40,yes,66.2,Fail,80
+388,female,associate's degree,none,57,78,67,83,62,95,2,14,40,yes,69.4,Pass,80
+389,female,high school,none,62,64,64,83,86,95,2,14,40,yes,71.8,Pass,80
+390,male,master's degree,Partialy completed,73,70,75,83,69,95,2,14,40,yes,74,Pass,80
+391,male,some high school,completed,73,67,59,83,65,95,2,14,40,yes,69.4,Pass,70
+392,female,some college,none,77,68,77,83,68,95,2,14,40,yes,74.6,Pass,70
+393,male,some college,none,76,67,67,83,64,95,2,14,40,yes,71.4,Pass,70
+394,male,associate's degree,completed,57,54,56,83,61,95,2,14,40,yes,62.2,Pass,70
+395,female,some high school,completed,65,74,77,83,61,95,2,14,40,yes,72,Pass,70
+396,male,high school,none,48,45,41,83,35,95,2,14,40,yes,50.4,Fail,80
+397,female,high school,none,50,67,63,83,58,95,2,14,40,yes,64.2,Pass,80
+398,female,associate's degree,Partialy completed,85,89,95,83,61,81,2,14,40,yes,82.6,Pass,80
+399,male,some high school,none,74,63,57,83,69,81,2,14,40,yes,69.2,Pass,80
+400,male,some high school,none,60,59,54,83,67,81,2,14,40,yes,64.6,Pass,80
+401,female,some high school,completed,59,54,67,83,79,81,2,14,40,yes,68.4,Pass,80
+402,male,some college,none,53,43,43,83,72,81,2,14,40,yes,58.8,Fail,80
+403,female,some college,Partialy completed,49,65,55,55,62,81,2,14,40,yes,57.2,Fail,80
+404,female,high school,completed,88,99,100,99,77,81,1,14,40,no,92.6,Pass,70
+405,female,high school,none,54,59,62,88,75,81,1,14,40,no,67.6,Pass,70
+406,female,some high school,none,63,73,68,88,87,81,1,14,40,no,75.8,Pass,70
+407,male,associate's degree,completed,65,65,63,88,52,81,1,14,40,no,66.6,Pass,70
+408,female,associate's degree,none,82,80,77,88,66,81,1,14,40,no,78.6,Pass,70
+409,female,high school,completed,52,57,56,88,63,81,1,14,100,no,63.2,Pass,67
+410,male,associate's degree,completed,87,84,85,88,46,81,1,14,100,no,78,Fail,65
+411,female,master's degree,completed,70,71,74,88,59,81,1,14,100,no,72.4,Pass,67
+412,male,some college,completed,84,83,78,88,61,81,1,14,100,no,78.8,Pass,68
+413,male,associate's degree,none,71,66,60,88,63,81,1,9,100,no,69.6,Pass,59
+414,male,some high school,completed,63,67,67,88,42,81,1,9,100,no,65.4,Fail,78
+415,female,bachelor's degree,completed,51,72,79,88,59,81,1,9,100,no,69.8,Pass,65
+416,male,high school,none,84,73,69,88,80,81,1,9,100,no,78.8,Pass,80
+417,male,bachelor's degree,completed,71,74,68,87,58,81,1,9,100,no,71.6,Pass,80
+418,male,associate's degree,none,74,73,67,68,85,81,1,9,100,partial yes,73.4,Pass,80
+419,male,some college,none,68,59,62,65,52,81,1,9,100,partial yes,61.2,Pass,80
+420,male,high school,completed,57,56,54,65,27,81,1,9,100,partial yes,51.8,Fail,80
+421,female,associate's degree,completed,82,93,93,65,59,81,1,9,100,partial yes,78.4,Pass,80
+422,female,high school,completed,57,58,64,65,49,81,1,9,100,partial yes,58.6,Fail,80
+423,female,master's degree,completed,47,58,67,65,69,81,1,15,100,partial yes,61.2,Fail,80
+424,female,some high school,completed,59,85,80,65,61,81,1,11,100,partial yes,70,Pass,70
+425,male,some college,none,41,39,34,65,44,81,1,11,100,partial yes,44.6,Fail,70
+426,female,some college,Partialy completed,62,67,62,65,73,81,1,11,100,partial yes,65.8,Pass,70
+427,male,bachelor's degree,none,86,83,86,65,84,81,1,11,100,partial yes,80.8,Pass,70
+428,male,some high school,none,69,71,65,65,45,81,1,11,100,partial yes,63,Fail,70
+429,male,some high school,Partialy completed,65,59,53,65,74,81,1,11,100,partial yes,63.2,Pass,80
+430,male,some high school,none,68,63,54,65,82,81,1,11,100,partial yes,66.4,Pass,80
+431,male,associate's degree,Partialy completed,64,66,59,44,59,81,1,11,100,partial yes,58.4,Fail,80
+432,female,high school,none,61,72,70,44,46,81,1,11,100,partial yes,58.6,Fail,80
+433,male,high school,Partialy completed,61,56,55,44,80,81,1,11,100,partial yes,59.2,Fail,80
+434,female,some high school,none,47,59,50,44,85,81,1,11,100,partial yes,57,Fail,80
+435,male,some high school,none,73,66,66,44,71,81,1,11,100,partial yes,64,Fail,80
+436,male,some college,completed,50,48,53,44,66,81,1,11,100,partial yes,52.2,Fail,80
+437,male,associate's degree,none,75,68,64,44,80,81,1,11,100,partial yes,66.2,Fail,70
+438,male,associate's degree,none,75,66,73,44,87,81,1,11,100,partial yes,69,Fail,70
+439,male,high school,none,70,56,51,44,79,96,1,11,100,partial yes,60,Fail,70
+440,male,some high school,completed,89,88,82,44,38,96,1,11,100,partial yes,68.2,Fail,70
+441,female,some college,completed,67,81,79,44,38,96,1,11,100,partial yes,61.8,Fail,70
+442,female,high school,none,78,81,80,44,67,96,1,11,100,partial yes,70,Fail,67
+443,female,some high school,none,59,73,69,44,64,96,1,11,100,partial yes,61.8,Fail,65
+444,female,associate's degree,Partialy completed,73,83,76,44,57,96,1,11,100,partial yes,66.6,Fail,67
+445,male,some high school,none,79,82,73,44,62,96,1,11,100,partial yes,68,Fail,68
+446,female,some high school,completed,67,74,77,75,73,96,1,11,100,partial yes,73.2,Pass,59
+447,male,some college,none,69,66,60,75,73,96,1,11,100,partial yes,68.6,Pass,78
+448,male,high school,completed,86,81,80,75,77,96,1,11,100,partial yes,79.8,Pass,65
+449,male,high school,none,47,46,42,75,76,96,1,11,100,partial yes,57.2,Fail,75
+450,male,associate's degree,none,81,73,72,75,57,73,1,11,100,partial yes,71.6,Pass,75
+451,female,some college,completed,64,85,85,75,65,73,1,12,100,partial yes,74.8,Pass,75
+452,female,some college,none,100,92,97,75,48,73,1,12,100,partial yes,82.4,Fail,75
+453,female,associate's degree,none,65,77,74,75,50,73,1,12,100,partial yes,68.2,Pass,75
+454,male,some college,Partialy completed,65,58,49,75,85,73,1,12,100,partial yes,66.4,Fail,75
+455,female,associate's degree,none,53,61,62,75,74,73,1,12,100,partial yes,65,Pass,75
+456,male,bachelor's degree,none,37,56,47,75,60,73,1,12,100,partial yes,55,Fail,75
+457,female,bachelor's degree,Partialy completed,79,89,89,75,59,73,1,12,100,partial yes,78.2,Pass,75
+458,male,associate's degree,none,53,54,48,75,53,73,1,12,100,partial yes,56.6,Fail,75
+459,female,bachelor's degree,none,100,100,100,88,49,73,1,12,100,partial yes,87.4,Fail,75
+460,male,high school,completed,72,65,68,70,88,73,1,12,100,partial yes,72.6,Pass,75
+461,male,bachelor's degree,none,53,58,55,70,54,73,1,12,100,partial yes,58,Pass,75
+462,male,some college,none,54,54,45,70,63,73,1,12,100,partial yes,57.2,Fail,75
+463,female,some college,Partialy completed,71,70,76,70,65,73,1,12,100,partial yes,70.4,Pass,75
+464,female,some college,none,77,90,91,70,82,73,1,12,100,partial yes,82,Pass,75
+465,male,bachelor's degree,completed,75,58,62,70,52,73,1,12,100,partial yes,63.4,Pass,75
+466,female,some college,none,84,87,91,70,87,73,1,13,100,partial yes,83.8,Pass,75
+467,female,associate's degree,none,26,31,38,70,70,73,1,13,100,partial yes,47,Fail,75
+468,male,high school,completed,72,67,65,70,84,73,1,13,100,partial yes,71.6,Pass,75
+469,female,high school,completed,77,88,85,70,71,73,1,13,100,partial yes,78.2,Pass,75
+470,male,some college,none,91,74,76,70,63,73,1,13,100,partial yes,74.8,Pass,75
+471,female,associate's degree,completed,83,85,90,70,51,84,1,13,100,partial yes,75.8,Pass,75
+472,female,high school,none,63,69,74,70,84,84,1,13,100,partial yes,72,Pass,75
+473,female,associate's degree,completed,68,86,84,70,71,84,1,13,100,partial yes,75.8,Pass,75
+474,female,some high school,none,59,67,61,70,74,84,1,13,100,partial yes,66.2,Pass,75
+475,female,associate's degree,completed,90,90,91,70,68,84,1,13,100,partial yes,81.8,Pass,75
+476,female,bachelor's degree,completed,71,76,83,70,57,84,1,13,100,partial yes,71.4,Pass,75
+477,male,bachelor's degree,completed,76,62,66,70,82,84,1,13,100,partial yes,71.2,Pass,75
+478,male,associate's degree,none,80,68,72,70,57,84,1,13,100,partial yes,69.4,Pass,75
+479,female,master's degree,none,55,64,70,70,47,84,1,13,100,partial yes,61.2,Fail,75
+480,male,associate's degree,none,76,71,67,67,59,84,1,13,100,partial yes,68,Pass,75
+481,male,high school,completed,73,71,68,67,41,84,1,13,100,partial yes,64,Fail,75
+482,female,associate's degree,none,52,59,56,67,62,84,1,13,100,partial yes,59.2,Pass,75
+483,male,some college,none,68,68,61,67,86,84,1,13,100,partial yes,70,Pass,75
+484,male,high school,none,59,52,46,67,69,84,1,13,100,partial yes,58.6,Fail,75
+485,female,associate's degree,Partialy completed,49,52,54,67,65,84,1,13,100,partial yes,57.4,Fail,75
+486,male,high school,none,70,74,71,67,68,84,1,13,100,partial yes,70,Pass,75
+487,male,some college,Partialy completed,61,47,56,67,64,84,1,13,100,partial yes,59,Fail,75
+488,female,associate's degree,none,60,75,74,67,61,84,1,13,100,partial yes,67.4,Pass,75
+489,male,some high school,completed,64,53,57,67,61,84,1,13,100,partial yes,60.4,Pass,75
+490,male,associate's degree,completed,79,82,82,67,82,84,1,13,100,partial yes,78.4,Pass,75
+491,female,associate's degree,none,65,85,76,67,76,84,1,13,100,partial yes,73.8,Pass,75
+492,female,associate's degree,none,64,64,70,67,70,66,1,15,100,partial yes,67,Pass,75
+493,female,some college,Partialy completed,83,83,90,89,90,67,1,15,100,partial yes,87,Pass,75
+494,female,bachelor's degree,none,81,88,90,89,90,68,1,15,100,partial yes,87.6,Pass,75
+495,female,high school,none,54,64,68,98,68,69,1,15,100,partial yes,70.4,Pass,75
+496,male,high school,completed,68,64,66,57,66,70,1,15,100,partial yes,64.2,Pass,75
+497,female,some college,none,54,48,52,57,52,71,1,15,100,partial yes,52.6,Fail,75
+498,female,some college,completed,59,78,76,57,76,72,1,15,100,partial yes,69.2,Pass,75
+499,female,some high school,none,66,69,68,57,68,73,1,15,100,partial yes,65.6,Pass,75
+500,male,some college,Partialy completed,76,71,72,57,72,74,1,15,100,partial yes,69.6,Pass,75
+501,female,master's degree,none,74,79,82,57,82,60,1,15,100,partial yes,74.8,Pass,75
+502,female,associate's degree,completed,94,87,92,57,92,66,1,15,100,partial yes,84.4,Pass,75
+503,male,some college,none,63,61,54,57,54,65,1,15,100,partial yes,57.8,Pass,75
+504,female,associate's degree,completed,95,89,92,57,92,79,1,15,100,partial yes,85,Pass,75
+505,female,master's degree,none,40,59,54,57,54,79,1,15,100,partial yes,52.8,Fail,75
+506,female,some high school,none,82,82,80,57,80,79,1,15,100,partial yes,76.2,Pass,75
+507,male,high school,none,68,70,66,57,66,79,1,15,60,partial yes,65.4,Pass,75
+508,male,bachelor's degree,Partialy completed,55,59,54,57,54,79,1,15,60,partial yes,55.8,Pass,75
+509,male,master's degree,none,79,78,77,57,77,79,1,15,60,partial yes,73.6,Pass,75
+510,female,bachelor's degree,Partialy completed,86,92,87,57,87,79,1,15,60,partial yes,81.8,Pass,75
+511,male,some college,none,76,71,73,57,73,79,1,15,60,partial yes,70,Pass,75
+512,male,some high school,none,64,50,43,57,43,79,1,15,60,partial yes,51.4,Fail,75
+513,male,some high school,none,62,49,52,57,52,79,1,15,60,partial yes,54.4,Fail,75
+514,female,some high school,completed,54,61,62,57,62,79,1,15,60,partial yes,59.2,Pass,75
+515,female,master's degree,completed,77,97,94,57,94,79,1,15,60,partial yes,83.8,Pass,75
+516,female,some high school,completed,76,87,85,57,85,79,1,15,60,partial yes,78,Pass,75
+517,female,some college,none,74,89,84,57,89,79,1,15,60,partial yes,78.6,Pass,75
+518,female,some college,completed,66,74,73,57,74,79,1,15,60,partial yes,68.8,Pass,75
+519,female,some high school,completed,66,78,78,57,78,98,1,15,60,partial yes,71.4,Pass,75
+520,female,high school,completed,67,78,79,57,78,99,1,15,60,partial yes,71.8,Pass,75
+521,male,some college,none,71,49,52,57,49,100,1,15,60,partial yes,55.6,Fail,75
+522,female,associate's degree,none,91,86,84,57,86,77,1,15,60,partial yes,80.8,Pass,75
+523,male,bachelor's degree,none,69,58,57,57,58,77,1,15,60,partial yes,59.8,Pass,75
+524,male,master's degree,none,54,59,50,57,59,77,1,15,60,partial yes,55.8,Pass,75
+525,male,high school,completed,53,52,49,57,52,77,1,15,60,partial yes,52.6,Fail,75
+526,male,some college,none,68,60,59,57,60,77,1,15,60,partial yes,60.8,Pass,75
+527,male,some high school,completed,56,61,60,57,61,77,1,15,60,partial yes,59,Pass,75
+528,female,high school,none,36,53,43,57,53,77,1,15,60,partial yes,48.4,Fail,75
+529,female,bachelor's degree,none,29,41,47,57,41,77,1,15,60,partial yes,43,Fail,75
+530,female,associate's degree,none,62,74,70,57,74,77,1,15,60,partial yes,67.4,Pass,75
+531,female,associate's degree,completed,68,67,73,57,67,77,1,15,60,partial yes,66.4,Pass,75
+532,female,some high school,none,47,54,53,57,54,77,1,15,60,partial yes,53,Fail,75
+533,male,associate's degree,completed,62,61,58,57,61,77,1,15,60,partial yes,59.8,Pass,75
+534,female,associate's degree,completed,79,88,94,57,88,77,1,15,60,partial yes,81.2,Pass,75
+535,male,high school,completed,73,69,68,57,69,77,1,15,60,partial yes,67.2,Pass,75
+536,female,bachelor's degree,completed,66,83,83,57,83,77,1,15,60,partial yes,74.4,Pass,75
+537,male,associate's degree,completed,51,60,58,57,60,77,1,15,60,partial yes,57.2,Pass,75
+538,female,high school,none,51,66,62,57,66,77,1,15,60,partial yes,60.4,Pass,75
+539,male,bachelor's degree,completed,85,66,71,57,66,77,1,15,60,partial yes,69,Pass,75
+540,male,associate's degree,completed,97,92,86,57,92,77,1,15,60,no,84.8,Pass,75
+541,male,high school,completed,75,69,68,57,69,77,1,15,60,no,67.6,Pass,75
+542,male,associate's degree,completed,79,82,80,57,82,77,1,15,60,no,76,Pass,75
+543,female,associate's degree,none,81,77,79,57,77,77,1,15,60,no,74.2,Pass,75
+544,female,associate's degree,Partialy completed,82,95,89,57,95,77,1,15,60,no,83.6,Pass,75
+545,female,master's degree,none,64,63,66,57,63,77,1,15,60,no,62.6,Pass,75
+546,male,some high school,completed,78,83,80,57,83,77,1,15,60,no,76.2,Pass,75
+547,female,some high school,completed,92,100,97,57,100,77,1,15,60,no,89.2,Pass,75
+548,male,high school,completed,72,67,64,57,67,77,1,15,90,no,65.4,Pass,75
+549,female,high school,none,62,67,64,57,67,77,1,15,30,no,63.4,Pass,75
+550,male,master's degree,none,79,72,69,57,60,70,2,14,45,no,67.4,Pass,80
+551,male,associate's degree,Partialy completed,52,42,73,91,93,90,2,10,90,partial yes,70.2,Fail,62
+552,male,high school,Partialy completed,55,63,40,61,76,78,2,13,90,partial yes,59,Fail,61
+553,male,associate's degree,Partialy completed,57,55,62,94,69,89,3,11,90,partial yes,67.4,Pass,68
+554,male,associate's degree,Partialy completed,91,94,42,64,43,75,4,13,90,partial yes,66.8,Fail,86
+555,female,associate's degree,none,55,41,54,65,44,65,1,15,90,partial yes,51.8,Fail,91
+556,female,master's degree,completed,97,45,69,70,37,91,3,15,90,partial yes,63.6,Fail,74
+557,female,some high school,completed,89,60,73,59,46,90,1,12,90,partial yes,65.4,Fail,82
+558,male,some high school,completed,62,48,64,88,53,87,4,14,90,partial yes,63,Fail,67
+559,female,high school,completed,68,68,59,40,73,77,1,15,90,partial yes,61.6,Fail,89
+560,male,high school,completed,97,86,47,100,37,58,2,15,90,partial yes,73.4,Fail,64
+561,female,master's degree,none,83,69,40,62,99,81,2,11,90,partial yes,70.6,Fail,78
+562,male,associate's degree,completed,70,72,68,76,73,50,1,13,90,partial yes,71.8,Pass,92
+563,male,high school,completed,89,70,74,50,39,96,4,14,90,partial yes,64.4,Fail,72
+564,male,associate's degree,completed,71,92,64,49,53,61,3,13,90,partial yes,65.8,Fail,73
+565,male,associate's degree,completed,70,98,55,57,52,47,4,10,90,partial yes,66.4,Pass,94
+566,male,associate's degree,none,77,58,68,70,87,56,1,12,90,partial yes,72,Pass,62
+567,female,master's degree,Partialy completed,75,62,53,78,60,80,1,11,90,partial yes,65.6,Pass,71
+568,female,some high school,none,50,52,87,89,35,100,1,12,90,partial yes,62.6,Fail,91
+569,female,some high school,completed,56,49,51,56,75,59,3,11,90,partial yes,57.4,Fail,87
+570,male,high school,completed,82,76,58,95,93,86,4,11,90,partial yes,80.8,Pass,94
+571,female,high school,completed,79,45,93,74,96,88,4,10,90,partial yes,77.4,Fail,89
+572,male,master's degree,none,97,84,70,64,96,80,3,15,90,partial yes,82.2,Pass,79
+573,female,associate's degree,none,70,49,55,49,50,75,4,13,120,partial yes,54.6,Fail,72
+574,male,high school,Partialy completed,100,91,53,49,76,72,4,12,120,partial yes,73.8,Fail,92
+575,male,associate's degree,Partialy completed,56,70,75,57,36,57,3,13,120,partial yes,58.8,Fail,87
+576,female,associate's degree,Partialy completed,90,47,65,64,75,91,1,15,120,partial yes,68.2,Fail,89
+577,female,associate's degree,Partialy completed,56,77,89,40,95,94,3,10,120,partial yes,71.4,Fail,64
+578,female,master's degree,none,67,99,69,43,90,76,2,11,120,partial yes,73.6,Fail,91
+579,male,some high school,completed,100,66,71,85,100,52,3,13,120,partial yes,84.4,Pass,67
+580,female,some high school,completed,50,52,52,87,55,78,1,12,120,partial yes,59.2,Pass,79
+581,female,high school,completed,91,85,86,72,49,92,2,12,120,partial yes,76.6,Fail,92
+582,male,high school,completed,58,45,90,50,81,63,1,10,120,partial yes,64.8,Fail,84
+583,female,master's degree,completed,50,77,61,73,70,97,1,10,120,partial yes,66.2,Pass,75
+584,female,some college,none,77,90,79,71,47,75,1,11,120,partial yes,72.8,Fail,61
+585,female,associate's degree,completed,67,50,91,88,80,97,3,12,120,partial yes,75.2,Pass,94
+586,male,high school,completed,58,75,91,98,96,85,3,15,120,partial yes,83.6,Pass,66
+587,male,high school,completed,91,78,64,100,66,97,2,15,30,partial yes,79.8,Pass,62
+588,male,some college,completed,83,100,71,63,43,94,4,14,30,partial yes,72,Fail,63
+589,female,associate's degree,none,82,56,75,83,48,54,2,15,30,partial yes,68.8,Fail,93
+590,male,high school,Partialy completed,64,55,96,47,51,76,2,15,30,partial yes,62.6,Fail,95
+591,male,associate's degree,none,92,54,85,40,95,92,2,11,30,partial yes,73.2,Fail,74
+592,female,some high school,completed,100,41,56,93,96,54,3,12,30,partial yes,77.2,Fail,81
+593,female,associate's degree,completed,71,79,75,63,47,81,2,10,30,partial yes,67,Fail,71
+594,female,bachelor's degree,completed,87,62,69,73,44,71,1,15,30,partial yes,67,Fail,84
+595,male,bachelor's degree,none,91,74,65,46,64,74,2,10,30,partial yes,68,Fail,79
+596,female,associate's degree,none,69,67,83,97,90,43,4,12,30,partial yes,81.2,Pass,65
+597,female,master's degree,Partialy completed,67,89,51,48,56,97,4,15,30,partial yes,62.2,Fail,66
+598,male,associate's degree,Partialy completed,56,98,70,54,73,92,1,15,30,partial yes,70.2,Pass,75
+599,female,high school,Partialy completed,77,85,79,78,100,66,2,12,30,partial yes,83.8,Pass,79
+600,female,associate's degree,Partialy completed,50,94,78,79,99,53,1,15,30,partial yes,80,Pass,89
+601,female,some college,none,93,85,95,96,82,59,3,11,30,partial yes,90.2,Pass,82
+602,male,high school,completed,86,58,78,95,56,88,1,15,30,partial yes,74.6,Pass,74
+603,male,associate's degree,completed,79,72,50,97,88,41,4,15,30,partial yes,77.2,Pass,84
+604,male,high school,completed,53,60,82,92,66,55,2,10,30,partial yes,70.6,Pass,69
+605,female,some college,completed,84,72,59,45,47,53,4,10,30,partial yes,61.4,Fail,73
+606,male,associate's degree,completed,73,63,93,42,45,72,1,10,30,partial yes,63.2,Fail,94
+607,male,some high school,none,66,46,83,96,70,43,4,13,30,partial yes,72.2,Fail,85
+608,female,associate's degree,completed,81,45,77,63,49,70,3,10,30,partial yes,63,Fail,74
+609,female,associate's degree,completed,62,67,82,94,70,82,4,15,30,partial yes,75,Pass,61
+610,female,associate's degree,completed,92,75,71,91,58,81,1,13,30,partial yes,77.4,Pass,74
+611,male,some college,completed,96,60,65,78,89,91,3,12,30,partial yes,77.6,Pass,75
+612,female,bachelor's degree,none,57,43,97,89,60,44,4,12,30,partial yes,69.2,Fail,95
+613,female,high school,Partialy completed,75,45,52,95,68,92,1,13,30,partial yes,67,Fail,79
+614,male,high school,none,85,45,45,56,92,58,3,11,30,partial yes,64.6,Fail,94
+615,female,some college,completed,89,40,55,89,72,88,2,15,30,partial yes,69,Fail,61
+616,female,some college,completed,79,81,95,55,91,61,4,12,30,partial yes,80.2,Pass,77
+617,female,some high school,completed,68,98,77,97,37,80,3,15,30,partial yes,75.4,Fail,69
+618,male,some college,none,70,55,92,93,63,66,4,14,30,partial yes,74.6,Pass,83
+619,male,master's degree,none,67,49,94,89,64,82,2,14,30,partial yes,72.6,Fail,80
+620,male,associate's degree,Partialy completed,78,81,81,41,72,51,2,11,30,partial yes,70.6,Fail,84
+621,female,some college,Partialy completed,62,76,82,46,67,76,4,14,30,partial yes,66.6,Fail,79
+622,male,associate's degree,Partialy completed,55,80,63,61,91,57,4,14,30,partial yes,70,Pass,73
+623,male,master's degree,Partialy completed,79,48,84,67,38,99,1,14,30,partial yes,63.2,Fail,71
+624,female,some high school,none,44,41,46,89,52,54,2,13,30,partial yes,54.4,Fail,91
+625,male,high school,completed,69,41,60,80,96,67,4,15,30,partial yes,69.2,Fail,83
+626,female,bachelor's degree,completed,87,51,63,66,67,84,2,11,30,partial yes,66.8,Pass,93
+627,female,master's degree,completed,51,96,88,91,83,53,3,12,30,partial yes,81.8,Pass,64
+628,male,bachelor's degree,completed,56,85,89,100,96,65,3,13,30,partial yes,85.2,Pass,69
+629,female,some college,completed,50,64,73,81,46,41,2,11,30,partial yes,62.8,Fail,85
+630,female,some high school,none,50,56,61,65,37,74,4,11,30,partial yes,53.8,Fail,83
+631,female,some high school,completed,54,66,98,48,51,81,3,12,30,partial yes,63.4,Fail,60
+632,male,some high school,completed,52,62,45,93,78,46,4,11,30,partial yes,66,Fail,74
+633,female,master's degree,completed,41,57,65,95,50,61,1,10,30,partial yes,61.6,Fail,93
+634,male,some high school,completed,56,81,77,50,41,46,1,12,30,partial yes,61,Fail,87
+635,male,some college,none,65,61,63,47,45,98,3,14,30,partial yes,56.2,Fail,66
+636,female,some college,Partialy completed,59,63,63,49,45,64,1,13,30,partial yes,55.8,Fail,62
+637,female,some high school,none,55,57,43,91,48,74,4,10,30,partial yes,58.8,Fail,76
+638,female,high school,completed,58,98,45,78,46,56,4,20,30,partial yes,65,Fail,62
+639,female,some college,completed,81,53,44,88,80,41,2,14,30,partial yes,69.2,Fail,71
+640,female,associate's degree,completed,90,82,95,85,77,69,2,20,30,partial yes,85.8,Pass,75
+641,female,bachelor's degree,none,56,77,56,52,48,86,2,12,30,partial yes,57.8,Fail,60
+642,male,master's degree,none,86,59,44,70,46,61,1,15,30,partial yes,61,Fail,66
+643,male,high school,Partialy completed,56,41,88,44,43,62,1,12,30,partial yes,54.4,Fail,86
+644,female,some college,Partialy completed,57,42,60,41,62,77,4,13,30,partial yes,52.4,Fail,63
+645,male,some high school,Partialy completed,75,55,76,83,79,42,3,13,30,partial yes,73.6,Pass,90
+646,male,high school,Partialy completed,88,83,79,58,73,66,3,13,30,partial yes,76.2,Pass,75
+647,female,bachelor's degree,none,91,90,63,61,41,48,3,11,30,partial yes,69.2,Fail,60
+648,male,associate's degree,completed,71,65,90,89,54,88,4,19,30,partial yes,73.8,Pass,92
+649,female,associate's degree,completed,68,42,81,59,44,96,4,10,30,partial yes,58.8,Fail,84
+650,female,some high school,completed,63,53,96,54,75,48,2,18,30,partial yes,68.2,Pass,62
+651,male,associate's degree,completed,84,90,65,75,66,79,3,16,30,partial yes,76,Pass,68
+652,male,associate's degree,completed,76,41,61,79,65,40,2,15,30,partial yes,64.4,Fail,85
+653,female,high school,none,84,62,46,86,53,50,3,18,30,partial yes,66.2,Fail,77
+654,male,bachelor's degree,completed,98,57,62,61,42,42,4,19,30,partial yes,64,Fail,94
+655,female,associate's degree,completed,64,70,48,71,46,63,1,15,30,partial yes,59.8,Fail,72
+656,female,high school,completed,50,74,71,78,54,89,4,19,30,partial yes,65.4,Pass,63
+657,female,bachelor's degree,completed,70,89,94,89,56,82,2,16,30,partial yes,79.6,Pass,90
+658,female,associate's degree,none,51,61,79,49,50,84,1,15,30,partial yes,58,Fail,84
+659,male,high school,Partialy completed,73,44,41,53,77,68,1,20,30,partial yes,57.6,Fail,82
+660,female,associate's degree,none,71,61,94,58,73,87,3,11,30,partial yes,71.4,Pass,91
+661,female,associate's degree,completed,82,51,96,93,58,91,2,20,30,no,76,Pass,90
+662,male,associate's degree,completed,41,41,81,92,78,85,1,14,30,no,66.6,Fail,70
+663,female,master's degree,completed,71,57,56,100,74,80,2,16,30,no,71.6,Pass,69
+664,male,some high school,none,70,85,89,66,65,58,3,13,30,no,75,Pass,76
+665,male,some high school,none,78,66,57,88,79,62,1,14,30,no,73.6,Pass,95
+666,male,high school,Partialy completed,76,63,78,64,43,61,3,14,30,no,64.8,Fail,65
+667,female,high school,Partialy completed,42,51,98,77,76,65,1,18,30,no,68.8,Fail,80
+668,male,master's degree,Partialy completed,87,68,98,56,57,43,4,17,30,no,73.2,Pass,82
+669,male,associate's degree,Partialy completed,69,49,83,64,52,45,4,18,150,no,63.4,Fail,66
+670,male,high school,none,88,58,60,72,60,99,4,20,150,no,67.6,Pass,87
+671,male,associate's degree,completed,87,60,40,58,48,42,2,15,150,no,58.6,Fail,95
+672,male,associate's degree,completed,87,49,41,72,63,63,4,16,150,yes,62.4,Fail,80
+673,female,associate's degree,completed,69,60,70,41,78,65,2,18,150,yes,63.6,Fail,68
+674,female,master's degree,completed,62,83,74,62,80,54,1,10,150,yes,72.2,Pass,77
+675,female,some high school,completed,67,64,49,75,77,65,4,18,150,yes,66.4,Fail,64
+676,female,some high school,none,63,70,64,73,60,67,2,19,150,yes,66,Pass,91
+677,male,high school,completed,83,46,62,56,61,42,1,15,150,yes,61.6,Fail,77
+678,female,high school,completed,89,70,45,85,77,49,4,14,150,yes,73.2,Fail,68
+679,male,master's degree,completed,71,41,96,80,43,68,4,20,150,yes,66.2,Fail,63
+680,male,associate's degree,completed,62,48,95,50,79,49,1,20,150,yes,66.8,Fail,73
+681,male,high school,none,85,42,49,87,59,51,2,13,150,yes,64.4,Fail,74
+682,female,associate's degree,Partialy completed,88,79,73,89,61,70,2,18,150,yes,78,Pass,86
+683,female,associate's degree,none,83,40,83,60,44,82,3,11,150,yes,62,Fail,84
+684,female,associate's degree,completed,78,58,64,94,45,83,3,14,150,yes,67.8,Fail,67
+685,female,master's degree,completed,85,76,82,40,65,81,2,20,150,yes,69.6,Fail,71
+686,male,some high school,completed,64,95,50,41,69,81,4,16,150,yes,63.8,Fail,80
+687,female,some high school,none,81,58,55,99,47,67,3,10,150,yes,68,Fail,65
+688,male,high school,none,62,77,92,82,73,67,1,10,150,yes,77.2,Pass,75
+689,male,high school,Partialy completed,72,95,100,44,75,77,3,20,100,yes,77.2,Fail,81
+690,male,master's degree,Partialy completed,78,55,67,76,79,60,2,12,100,yes,71,Pass,77
+691,male,associate's degree,Partialy completed,71,49,62,90,65,91,3,10,100,yes,67.4,Fail,65
+692,female,high school,Partialy completed,88,78,57,53,48,59,1,10,100,yes,64.8,Fail,90
+693,female,associate's degree,none,84,59,62,69,74,65,3,15,100,yes,69.6,Pass,69
+694,female,associate's degree,completed,70,93,82,63,71,74,3,10,100,yes,75.8,Pass,67
+695,male,associate's degree,completed,62,56,50,68,78,54,4,17,100,yes,62.8,Pass,80
+696,female,master's degree,completed,89,55,92,79,78,97,3,14,100,yes,78.6,Pass,91
+697,male,some high school,completed,77,69,52,76,66,67,4,16,100,yes,68,Pass,85
+698,female,some high school,completed,74,47,75,92,58,54,4,16,100,yes,69.2,Fail,75
+699,male,high school,none,81,48,51,57,70,73,4,11,100,yes,61.4,Fail,86
+700,female,high school,completed,72,91,45,98,45,54,1,20,100,yes,70.2,Fail,87
+701,male,master's degree,completed,75,59,51,61,42,47,4,19,100,yes,57.6,Fail,66
+702,male,some college,completed,74,52,98,88,65,86,3,18,100,yes,75.4,Pass,77
+703,male,associate's degree,completed,80,62,50,83,70,49,4,12,100,yes,69,Pass,88
+704,female,high school,none,82,54,90,56,77,46,2,17,100,yes,71.8,Pass,81
+705,female,high school,Partialy completed,80,61,67,82,79,66,4,16,200,yes,73.8,Pass,89
+706,male,some college,none,75,40,79,87,60,76,1,19,200,yes,68.2,Fail,87
+707,female,associate's degree,completed,81,49,47,42,59,41,2,11,200,yes,55.6,Fail,62
+708,female,high school,completed,62,96,97,63,48,59,1,16,200,yes,73.2,Fail,90
+709,male,associate's degree,completed,83,40,71,96,41,65,2,20,200,yes,66.2,Fail,77
+710,female,some high school,none,78,66,57,62,65,51,4,16,200,yes,65.6,Pass,87
+711,male,associate's degree,none,60,40,56,86,62,71,4,16,200,yes,60.8,Fail,80
+712,female,bachelor's degree,Partialy completed,67,98,84,63,66,81,1,16,200,yes,75.6,Pass,91
+713,female,bachelor's degree,Partialy completed,74,66,67,99,79,54,1,14,200,yes,77,Pass,69
+714,female,associate's degree,Partialy completed,79,41,68,97,59,90,4,11,200,yes,68.8,Fail,61
+715,female,master's degree,Partialy completed,78,71,77,82,73,88,2,11,200,yes,76.2,Pass,65
+716,female,associate's degree,none,61,55,84,68,72,77,1,13,200,yes,68,Pass,83
+717,female,high school,completed,63,60,56,52,45,83,3,12,200,yes,55.2,Fail,79
+718,male,associate's degree,completed,74,40,52,90,64,47,3,20,200,yes,64,Fail,65
+719,male,some college,completed,73,88,98,94,73,78,3,16,200,yes,85.2,Pass,71
+720,female,high school,completed,80,79,75,71,75,78,2,17,200,yes,76,Pass,63
+721,male,associate's degree,completed,61,86,57,85,53,82,1,20,25,yes,68.4,Pass,65
+722,male,high school,none,86,49,100,96,45,83,1,15,25,yes,75.2,Fail,65
+723,female,some college,completed,75,50,74,46,52,87,4,12,25,yes,59.4,Fail,73
+724,male,associate's degree,completed,60,54,68,75,41,90,3,18,25,yes,59.6,Fail,62
+725,male,some high school,completed,74,81,98,96,67,77,3,10,25,yes,83.2,Pass,85
+726,female,associate's degree,completed,80,57,96,91,60,58,2,20,25,yes,76.8,Pass,95
+727,male,associate's degree,none,79,95,71,94,71,64,1,17,25,yes,82,Pass,86
+728,male,associate's degree,Partialy completed,77,59,79,71,63,74,1,18,25,yes,69.8,Pass,73
+729,female,some college,none,74,60,43,53,42,41,1,13,25,yes,54.4,Fail,75
+730,male,bachelor's degree,completed,73,75,98,68,77,50,1,18,25,yes,78.2,Pass,82
+731,male,high school,completed,73,82,90,57,67,41,2,14,25,yes,73.8,Pass,82
+732,female,high school,completed,83,88,74,66,50,44,3,14,25,yes,72.2,Pass,72
+733,female,some college,none,77,67,87,68,59,71,1,15,25,yes,71.6,Pass,74
+734,female,some college,none,71,77,72,56,41,42,2,11,45,yes,63.4,Fail,90
+735,female,some high school,Partialy completed,69,42,87,42,50,61,2,19,45,yes,58,Fail,78
+736,female,some college,Partialy completed,69,84,63,73,68,48,1,16,45,yes,71.4,Pass,75
+737,male,master's degree,Partialy completed,84,81,60,43,72,80,2,20,45,yes,68,Fail,63
+738,female,associate's degree,Partialy completed,83,74,52,60,66,54,4,15,45,yes,67,Pass,64
+739,female,some college,none,83,62,51,53,59,95,4,17,45,yes,61.6,Pass,63
+740,female,associate's degree,completed,79,58,95,61,50,80,1,16,45,yes,68.6,Pass,70
+741,male,master's degree,completed,90,68,82,73,60,87,3,20,45,yes,74.6,Pass,77
+742,female,some high school,completed,87,59,74,50,61,74,2,20,45,yes,66.2,Pass,77
+743,female,high school,completed,63,99,61,68,52,65,3,12,45,yes,68.6,Pass,64
+744,male,bachelor's degree,completed,70,54,40,47,80,60,4,15,45,yes,58.2,Fail,65
+745,female,master's degree,none,75,43,47,82,57,55,1,11,45,yes,60.8,Fail,72
+746,female,bachelor's degree,completed,62,47,91,89,47,87,3,17,45,yes,67.2,Fail,76
+747,female,some college,completed,64,96,72,50,67,40,4,16,45,yes,69.8,Pass,81
+748,male,some high school,completed,63,82,95,49,49,89,2,10,45,yes,67.6,Fail,94
+749,male,some high school,completed,83,55,59,80,40,62,1,12,45,yes,63.4,Fail,80
+750,male,some high school,none,71,66,81,70,75,61,1,13,45,yes,72.6,Pass,86
+751,female,master's degree,Partialy completed,82,58,85,54,59,44,4,15,45,yes,67.6,Pass,76
+752,male,some high school,none,78,59,82,43,68,74,3,13,45,yes,66,Fail,63
+753,male,some college,completed,70,45,56,82,58,73,2,13,45,yes,62.2,Fail,68
+754,male,some college,completed,83,47,48,91,66,49,2,17,45,yes,67,Fail,93
+755,female,some high school,completed,66,42,65,64,75,80,1,17,45,yes,62.4,Fail,81
+756,female,high school,none,73,58,93,70,57,48,1,14,45,yes,70.2,Pass,83
+757,female,some college,none,80,45,65,84,47,81,1,12,45,yes,64.2,Fail,80
+758,female,associate's degree,Partialy completed,68,95,78,87,75,53,3,12,45,yes,80.6,Pass,64
+759,female,bachelor's degree,Partialy completed,81,80,61,52,57,54,3,14,60,yes,66.2,Pass,60
+760,female,master's degree,Partialy completed,77,84,53,90,64,67,1,13,60,yes,73.6,Pass,55
+761,female,high school,Partialy completed,68,85,87,62,42,58,4,20,60,yes,68.8,Fail,54
+762,male,some college,Partialy completed,70,59,96,76,68,91,1,20,60,yes,73.8,Pass,67
+763,female,some high school,none,87,95,60,93,42,79,1,18,60,yes,75.4,Fail,50
+764,male,high school,none,75,50,55,60,78,88,2,19,60,no,63.6,Pass,56
+765,male,bachelor's degree,Partialy completed,88,71,72,75,54,48,1,18,60,no,72,Pass,61
+766,male,associate's degree,none,82,66,45,50,53,48,4,12,60,no,59.2,Fail,61
+767,male,associate's degree,none,80,47,55,43,65,40,2,19,60,no,58,Fail,52
+768,male,some high school,completed,78,40,96,67,75,57,4,13,60,no,71.2,Fail,68
+769,female,associate's degree,none,65,47,81,84,63,98,2,16,60,no,68,Fail,50
+770,female,associate's degree,none,75,97,73,80,59,77,4,16,60,no,76.8,Pass,55
+771,female,high school,Partialy completed,87,95,75,69,65,91,4,12,60,no,78.2,Pass,61
+772,female,bachelor's degree,none,86,98,100,44,65,93,3,10,60,no,78.6,Fail,50
+773,female,associate's degree,completed,85,66,99,80,55,86,4,10,60,no,77,Pass,64
+774,male,high school,none,66,74,67,53,51,82,1,13,60,no,62.2,Pass,69
+775,female,bachelor's degree,none,87,53,42,70,53,60,2,20,60,yes,61,Fail,63
+776,male,associate's degree,completed,77,68,41,42,55,50,3,18,60,yes,56.6,Fail,69
+777,female,high school,completed,81,50,100,47,58,88,1,13,60,yes,67.2,Fail,52
+778,male,associate's degree,none,83,95,76,58,59,51,1,10,60,yes,74.2,Pass,62
+779,male,associate's degree,completed,80,77,67,91,42,91,2,11,60,yes,71.4,Fail,63
+780,female,associate's degree,none,76,46,43,71,62,78,1,16,60,yes,59.6,Fail,57
+781,female,master's degree,completed,77,50,99,71,47,96,2,19,60,yes,68.8,Fail,50
+782,female,some high school,none,71,61,93,76,44,60,4,13,60,yes,69,Fail,70
+783,female,some high school,completed,86,40,85,80,79,75,2,12,60,yes,74,Fail,70
+784,male,high school,completed,77,71,83,46,42,41,4,19,60,yes,63.8,Fail,59
+785,female,high school,completed,75,90,82,83,47,57,4,16,60,yes,75.4,Fail,62
+786,male,master's degree,none,75,96,47,76,78,66,1,12,60,yes,74.4,Fail,59
+787,male,associate's degree,none,66,76,81,99,72,44,2,10,60,yes,78.8,Pass,52
+788,male,high school,none,78,73,93,82,51,41,2,20,60,yes,75.4,Pass,69
+789,male,associate's degree,Partialy completed,80,73,81,100,55,46,4,20,60,no,77.8,Pass,63
+790,female,associate's degree,none,73,44,80,67,40,94,4,17,60,no,60.8,Fail,70
+791,female,associate's degree,none,68,70,96,90,54,78,4,12,60,no,75.6,Pass,55
+792,female,master's degree,Partialy completed,85,91,47,48,45,42,4,11,60,no,63.2,Fail,50
+793,male,some high school,none,74,91,76,79,75,58,4,17,60,no,79,Pass,55
+794,female,some high school,none,80,44,53,73,58,85,4,17,60,no,61.6,Fail,50
+795,male,high school,completed,62,72,45,67,64,84,2,15,60,no,62,Fail,45
+796,female,high school,none,71,52,54,57,62,88,1,14,60,no,59.2,Pass,43
+797,male,master's degree,none,64,75,56,47,76,57,2,19,60,no,63.6,Fail,44
+798,female,associate's degree,Partialy completed,72,68,81,71,52,67,4,16,60,no,68.8,Pass,44
+799,male,high school,none,82,46,52,86,66,72,2,12,60,no,66.4,Fail,42
+800,male,associate's degree,completed,61,77,48,54,74,69,2,13,75,yes,62.8,Fail,43
+801,male,associate's degree,none,71,77,66,74,73,98,2,16,75,yes,72.2,Pass,45
+802,female,associate's degree,none,63,82,72,77,72,64,3,20,75,yes,73.2,Pass,47
+803,female,master's degree,completed,62,62,48,54,64,47,4,14,75,yes,58,Fail,45
+804,male,some high school,completed,60,68,58,41,57,50,3,12,75,yes,56.8,Fail,40
+805,female,some high school,none,72,70,94,51,45,76,1,16,75,yes,66.4,Fail,45
+806,female,high school,completed,75,76,89,80,41,80,3,17,75,yes,72.2,Fail,40
+807,male,high school,none,78,50,56,89,45,98,2,14,75,yes,63.6,Fail,44
+808,female,master's degree,completed,65,85,100,82,73,79,4,12,75,yes,81,Pass,41
+809,male,associate's degree,none,72,76,99,93,67,51,4,14,75,yes,81.4,Pass,41
+810,female,high school,completed,75,52,47,56,67,58,2,11,75,yes,59.4,Fail,75
+811,female,associate's degree,completed,81,66,57,95,40,80,1,14,75,yes,67.8,Fail,92
+812,female,associate's degree,completed,88,88,82,84,68,70,3,18,75,yes,82,Pass,83
+813,female,associate's degree,none,85,77,60,67,76,73,1,16,75,yes,73,Pass,74
+814,female,master's degree,none,80,89,67,66,68,61,1,15,75,no,74,Pass,72
+815,female,some high school,none,67,61,87,49,72,40,4,16,75,yes,67.2,Fail,83
+816,male,some high school,Partialy completed,74,41,61,43,64,50,2,17,75,no,56.6,Fail,95
+817,male,high school,none,73,95,55,40,62,55,3,20,75,yes,65,Fail,85
+818,female,high school,none,60,98,41,55,43,44,4,11,75,no,59.4,Fail,89
+819,male,master's degree,Partialy completed,86,51,52,56,78,96,2,18,75,yes,64.6,Pass,80
+820,male,some college,none,86,84,93,48,54,54,4,11,75,partial yes,73,Fail,77
+821,female,associate's degree,none,64,60,67,55,41,92,4,16,75,partial yes,57.4,Fail,81
+822,male,high school,completed,72,93,95,93,62,96,4,15,80,partial yes,83,Pass,89
+823,male,high school,none,71,89,82,88,78,88,2,10,80,partial yes,81.6,Pass,87
+824,female,some college,none,80,99,65,43,62,61,1,13,80,partial yes,69.8,Fail,74
+825,male,associate's degree,Partialy completed,63,91,73,82,71,69,1,17,80,partial yes,76,Pass,73
+826,male,high school,none,61,66,58,52,56,65,2,13,80,partial yes,58.6,Pass,100
+827,female,associate's degree,completed,71,80,41,58,54,48,4,10,80,no,60.8,Fail,83
+828,male,some high school,none,86,48,77,59,49,50,2,17,80,yes,63.8,Fail,70
+829,male,associate's degree,none,81,91,55,91,41,49,3,10,80,yes,71.8,Fail,87
+830,female,bachelor's degree,completed,78,88,53,97,80,89,2,15,80,yes,79.2,Pass,99
+831,female,bachelor's degree,completed,77,85,64,52,58,50,4,16,80,yes,67.2,Pass,98
+832,female,associate's degree,none,75,42,75,80,45,58,3,17,80,yes,63.4,Fail,92
+833,female,master's degree,completed,85,58,62,42,64,46,4,15,80,yes,62.2,Fail,95
+834,female,associate's degree,none,69,48,66,49,49,89,3,10,80,yes,56.2,Fail,98
+835,male,high school,completed,81,42,78,99,44,90,4,14,80,yes,68.8,Fail,99
+836,female,associate's degree,none,62,65,46,97,70,60,2,14,80,yes,68,Fail,75
+837,female,some college,completed,67,72,56,57,41,87,2,12,80,yes,58.6,Fail,77
+838,female,high school,completed,68,47,100,53,80,68,4,11,80,yes,69.6,Fail,89
+839,male,associate's degree,completed,79,45,97,88,75,92,4,10,80,yes,76.8,Fail,100
+840,female,high school,none,88,93,61,52,64,76,1,17,80,yes,71.6,Pass,71
+841,female,some college,none,82,60,96,42,76,68,3,15,80,yes,71.2,Fail,100
+842,male,associate's degree,none,65,76,83,67,47,77,4,13,80,yes,67.6,Fail,73
+843,female,some high school,Partialy completed,80,83,43,75,74,66,2,10,80,yes,71,Fail,91
+844,female,associate's degree,none,87,43,78,73,53,84,4,19,80,yes,66.8,Fail,91
+845,female,associate's degree,none,62,81,79,40,44,55,4,20,80,yes,61.2,Fail,80
+846,male,associate's degree,Partialy completed,68,60,93,48,68,43,4,10,80,yes,67.4,Fail,76
+847,male,some college,none,70,89,87,54,76,90,2,16,80,yes,75.2,Pass,74
+848,male,bachelor's degree,none,75,100,88,67,68,63,4,18,80,yes,79.6,Pass,81
+849,female,high school,completed,80,72,52,57,60,75,2,19,80,yes,64.2,Pass,98
+850,male,high school,none,79,89,88,78,74,54,1,18,80,partial yes,81.6,Pass,81
+851,male,some college,none,67,75,90,55,66,72,2,18,80,partial yes,70.6,Pass,80
+852,male,some college,Partialy completed,74,78,68,56,76,60,4,20,80,partial yes,70.4,Pass,99
+853,female,some high school,none,61,66,82,87,64,63,3,11,80,partial yes,72,Pass,80
+854,female,some college,completed,64,86,69,78,67,86,3,11,40,partial yes,72.8,Pass,77
+855,female,master's degree,none,78,44,54,64,58,68,2,13,40,partial yes,59.6,Fail,98
+856,female,associate's degree,none,64,52,89,56,47,76,3,17,40,partial yes,61.6,Fail,74
+857,female,some college,completed,83,61,47,75,41,47,1,12,40,no,61.4,Fail,87
+858,female,associate's degree,completed,62,40,66,99,58,99,1,18,40,yes,65,Fail,83
+859,female,master's degree,none,89,62,40,45,52,87,1,19,40,no,57.6,Fail,89
+860,male,some high school,completed,63,81,59,66,70,47,3,19,40,yes,67.8,Pass,71
+861,female,high school,none,79,80,90,48,67,100,3,20,40,no,72.8,Fail,77
+862,male,bachelor's degree,completed,63,81,42,72,69,58,1,10,40,yes,65.4,Fail,78
+863,male,master's degree,none,86,67,92,98,68,79,2,18,40,partial yes,82.2,Pass,73
+864,male,bachelor's degree,completed,69,43,68,91,80,51,2,13,40,partial yes,70.2,Fail,77
+865,male,some college,completed,77,63,76,63,77,95,4,12,40,partial yes,71.2,Pass,95
+866,male,some high school,completed,82,58,67,95,60,61,1,10,40,partial yes,72.4,Pass,91
+867,female,some high school,none,81,57,95,98,64,94,4,13,40,partial yes,79,Pass,87
+868,female,some high school,none,78,64,51,50,62,91,3,19,40,partial yes,61,Pass,80
+869,female,master's degree,none,79,75,70,89,61,52,4,20,40,partial yes,74.8,Pass,80
+870,female,some high school,Partialy completed,77,91,88,81,68,82,4,17,40,no,81,Pass,98
+871,female,some college,none,76,80,86,66,61,77,2,19,40,yes,73.8,Pass,84
+872,male,some college,none,89,42,95,41,72,43,1,15,40,yes,67.8,Fail,93
+873,female,some high school,Partialy completed,62,77,85,92,69,74,2,16,40,yes,77,Pass,96
+874,male,high school,none,78,96,67,66,80,69,2,13,40,yes,77.4,Pass,84
+875,female,some college,none,66,56,50,41,60,55,3,16,40,yes,54.6,Fail,78
+876,male,associate's degree,completed,68,56,95,70,61,92,3,16,40,yes,70,Pass,84
+877,female,bachelor's degree,none,87,81,51,94,45,84,4,18,40,yes,71.6,Fail,90
+878,male,master's degree,none,60,82,84,89,63,46,1,11,40,yes,75.6,Pass,75
+879,male,high school,Partialy completed,85,87,83,83,75,86,1,20,40,yes,82.6,Pass,97
+880,male,some college,none,79,96,52,94,74,96,1,12,40,yes,79,Pass,92
+881,male,some high school,completed,69,86,52,52,40,86,3,15,40,yes,59.8,Fail,97
+882,male,high school,none,77,84,54,96,53,64,4,15,40,yes,72.8,Pass,81
+883,female,bachelor's degree,none,81,72,89,88,71,75,2,13,40,yes,80.2,Pass,86
+884,male,associate's degree,completed,60,62,86,88,44,48,3,17,40,yes,68,Fail,99
+885,male,associate's degree,completed,87,66,96,69,76,46,2,18,40,yes,78.8,Pass,73
+886,male,some high school,none,73,66,81,100,70,68,2,19,40,yes,78,Pass,72
+887,male,associate's degree,completed,63,66,56,83,43,79,3,10,40,yes,62.2,Fail,75
+888,female,associate's degree,none,82,98,50,90,62,96,1,17,40,yes,76.4,Pass,93
+889,male,high school,completed,84,91,52,74,45,98,2,18,40,yes,69.2,Fail,72
+890,female,bachelor's degree,none,73,47,98,52,48,43,2,16,40,yes,63.6,Fail,91
+891,female,associate's degree,completed,85,95,57,47,45,74,4,15,40,yes,65.8,Fail,94
+892,female,high school,completed,62,52,54,49,67,74,1,19,40,yes,56.8,Fail,99
+893,female,bachelor's degree,completed,63,83,70,99,61,48,3,16,40,partial yes,75.2,Pass,84
+894,female,associate's degree,none,76,93,54,71,54,100,1,13,40,partial yes,69.6,Pass,86
+895,male,high school,none,67,87,58,53,77,42,3,16,40,partial yes,68.4,Pass,98
+896,female,associate's degree,none,69,48,78,40,50,72,1,15,40,partial yes,57,Fail,93
+897,male,associate's degree,Partialy completed,65,82,79,62,78,88,3,11,40,partial yes,73.2,Pass,84
+898,female,associate's degree,none,88,41,96,55,54,67,1,14,40,partial yes,66.8,Fail,71
+899,male,master's degree,none,63,73,64,80,41,61,3,16,40,partial yes,64.2,Fail,81
+900,female,some high school,Partialy completed,68,42,69,89,78,80,3,20,40,no,69.2,Fail,80
+901,male,some high school,none,63,64,81,54,44,76,2,10,40,yes,61.2,Fail,100
+902,male,high school,none,79,57,84,69,55,100,2,19,40,no,68.8,Pass,75
+903,male,high school,completed,80,93,54,77,53,84,3,20,40,yes,71.4,Pass,79
+904,male,master's degree,none,65,76,77,89,45,87,4,13,40,no,70.4,Fail,98
+905,male,associate's degree,none,68,87,73,54,70,91,1,20,40,yes,70.4,Pass,71
+906,female,high school,Partialy completed,67,80,95,66,46,96,3,17,40,partial yes,70.8,Fail,71
+907,male,associate's degree,none,69,95,49,100,56,50,2,16,40,partial yes,73.8,Fail,94
+908,male,associate's degree,completed,67,95,45,51,47,78,4,13,40,partial yes,61,Fail,100
+909,male,associate's degree,none,77,75,86,98,65,55,2,17,40,partial yes,80.2,Pass,70
+910,male,master's degree,none,66,61,44,73,49,98,4,10,40,partial yes,58.6,Fail,91
+911,female,some high school,completed,80,79,88,94,68,54,4,19,40,partial yes,81.8,Pass,75
+912,male,some high school,completed,81,71,99,69,42,56,3,12,40,partial yes,72.4,Fail,82
+913,female,high school,none,89,63,99,74,47,90,1,13,40,no,74.4,Fail,75
+914,female,high school,completed,89,84,75,53,71,65,4,19,40,yes,74.4,Pass,85
+915,female,master's degree,none,71,83,89,48,74,41,3,13,40,yes,73,Fail,93
+916,female,associate's degree,completed,74,92,70,98,53,97,2,16,40,yes,77.4,Pass,88
+917,female,high school,none,87,96,94,43,76,62,3,17,40,yes,79.2,Fail,78
+918,male,associate's degree,completed,66,83,69,52,79,64,1,18,40,yes,69.8,Pass,86
+919,female,associate's degree,completed,79,85,67,75,63,92,3,18,40,yes,73.8,Pass,73
+920,male,associate's degree,completed,68,94,94,97,77,64,3,17,40,yes,86,Pass,73
+921,female,master's degree,none,77,100,74,73,46,61,2,20,40,yes,74,Fail,82
+922,male,some high school,none,83,73,43,92,62,97,4,19,40,yes,70.6,Fail,95
+923,female,some high school,none,83,55,41,80,52,72,3,16,40,yes,62.2,Fail,85
+924,male,high school,Partialy completed,69,70,95,72,78,61,1,19,40,yes,76.8,Pass,77
+925,male,high school,none,86,88,81,74,70,51,4,19,40,yes,79.8,Pass,98
+926,male,master's degree,completed,70,62,93,91,60,59,2,14,40,yes,75.2,Pass,77
+927,male,associate's degree,none,80,45,59,44,75,93,1,16,40,yes,60.6,Fail,90
+928,male,high school,none,77,81,52,80,79,59,2,18,40,yes,73.8,Pass,81
+929,female,associate's degree,completed,87,62,59,79,76,67,2,14,40,yes,72.6,Pass,91
+930,male,associate's degree,completed,80,86,88,97,40,95,3,12,40,yes,78.2,Fail,100
+931,male,associate's degree,none,77,90,72,41,76,40,3,10,40,yes,71.2,Fail,73
+932,male,master's degree,completed,63,72,90,89,76,54,1,19,40,yes,78,Pass,79
+933,male,some high school,none,73,62,44,65,50,80,1,14,40,yes,58.8,Fail,87
+934,female,some high school,completed,61,47,47,76,80,77,2,11,40,yes,62.2,Fail,85
+935,male,high school,none,65,84,60,98,60,56,2,17,40,yes,73.4,Pass,78
+936,female,high school,completed,61,78,66,63,59,41,2,16,40,partial yes,65.4,Pass,81
+937,female,master's degree,completed,67,41,57,47,54,45,2,19,40,partial yes,53.2,Fail,98
+938,female,associate's degree,completed,86,58,74,52,71,76,3,10,40,partial yes,68.2,Pass,89
+939,female,some high school,none,68,61,84,62,45,77,1,10,40,partial yes,64,Fail,89
+940,female,associate's degree,none,65,96,48,41,79,57,4,20,40,partial yes,65.8,Fail,87
+941,male,high school,none,85,88,76,41,59,67,4,16,40,partial yes,69.8,Fail,81
+942,female,associate's degree,Partialy completed,71,77,84,84,46,59,4,17,40,partial yes,72.4,Fail,76
+943,male,some college,none,71,96,93,76,54,51,4,17,40,no,78,Pass,92
+944,female,some high school,none,79,80,66,61,48,44,1,10,40,yes,66.8,Fail,90
+945,male,associate's degree,Partialy completed,75,55,61,84,49,97,2,20,40,no,64.8,Fail,78
+946,female,associate's degree,none,74,96,54,73,48,49,4,10,40,yes,69,Fail,95
+947,male,associate's degree,Partialy completed,87,76,67,93,55,47,1,15,40,no,75.6,Pass,93
+948,male,some college,none,62,87,88,58,72,74,4,17,40,yes,73.4,Pass,78
+949,male,some college,completed,70,82,83,40,76,64,3,16,40,partial yes,70.2,Fail,93
+950,male,some high school,none,90,61,40,49,41,44,4,16,40,partial yes,56.2,Fail,82
+951,male,associate's degree,none,86,96,47,76,79,86,1,20,40,partial yes,76.8,Fail,89
+952,female,high school,completed,84,57,70,51,60,54,1,15,40,partial yes,64.4,Pass,77
+953,male,associate's degree,completed,79,94,74,78,57,46,1,18,40,partial yes,76.4,Pass,81
+954,male,bachelor's degree,none,82,64,63,43,63,73,3,18,40,partial yes,63,Fail,84
+955,male,bachelor's degree,completed,79,49,72,75,55,50,1,19,40,partial yes,66,Fail,90
+956,male,associate's degree,none,69,94,41,98,51,61,1,15,40,no,70.6,Fail,75
+957,female,bachelor's degree,completed,87,62,69,57,65,47,4,20,40,yes,68,Pass,84
+958,male,high school,none,72,81,48,48,53,45,1,11,40,yes,60.4,Fail,90
+959,female,master's degree,completed,66,47,59,82,41,70,1,17,100,yes,59,Fail,90
+960,female,associate's degree,completed,62,91,76,64,54,65,3,15,100,yes,69.4,Pass,93
+961,female,bachelor's degree,completed,64,63,91,59,47,90,3,13,100,yes,64.8,Fail,94
+962,female,associate's degree,none,72,56,90,74,77,62,2,11,100,yes,73.8,Pass,79
+963,female,high school,none,75,64,100,67,69,77,2,15,100,yes,75,Pass,83
+964,male,high school,none,79,62,52,50,77,55,1,11,100,yes,64,Pass,97
+965,female,some college,Partialy completed,64,78,95,57,73,99,1,14,100,yes,73.4,Pass,79
+966,male,some high school,none,61,49,85,50,74,68,3,16,100,yes,63.8,Fail,85
+967,female,high school,none,89,73,75,60,56,69,1,14,100,yes,70.6,Pass,83
+968,male,some college,Partialy completed,77,76,50,91,74,57,2,18,100,yes,73.6,Pass,96
+969,female,some college,none,62,75,51,88,59,99,1,17,100,yes,67,Pass,80
+970,male,some college,Partialy completed,87,56,90,90,45,73,4,10,100,yes,73.6,Fail,75
+971,male,associate's degree,none,86,71,45,91,79,66,3,15,100,yes,74.4,Fail,94
+972,male,some high school,completed,67,48,87,97,43,46,3,14,100,yes,68.4,Fail,99
+973,male,high school,none,89,46,42,40,42,71,3,11,100,yes,51.8,Fail,100
+974,male,associate's degree,none,60,89,64,56,61,94,2,14,100,yes,66,Pass,92
+975,female,associate's degree,completed,68,85,93,72,54,74,1,14,100,yes,74.4,Pass,74
+976,male,associate's degree,completed,61,71,59,61,57,59,4,17,100,yes,61.8,Pass,100
+977,male,bachelor's degree,none,83,71,70,48,60,79,4,16,100,yes,66.4,Fail,96
+978,male,some college,completed,78,62,52,85,62,90,1,18,100,yes,67.8,Pass,78
+979,male,some high school,none,73,97,69,95,76,66,2,13,100,partial yes,82,Pass,79
+980,female,associate's degree,completed,82,85,92,53,43,71,1,15,100,partial yes,71,Fail,86
+981,male,some high school,none,81,64,53,64,73,73,3,14,100,partial yes,67,Pass,86
+982,female,some high school,completed,68,75,77,65,61,40,2,10,100,partial yes,69.2,Pass,96
+983,female,high school,completed,88,76,81,96,66,43,1,17,100,partial yes,81.4,Pass,72
+984,female,high school,completed,79,61,48,55,73,83,3,12,100,partial yes,63.2,Fail,85
+985,female,high school,none,72,69,58,88,48,95,2,18,100,partial yes,67,Fail,97
+986,female,associate's degree,none,90,75,73,95,75,93,1,20,100,no,81.6,Pass,90
+987,male,some college,none,85,82,48,93,79,61,4,16,100,yes,77.4,Fail,89
+988,female,high school,Partialy completed,79,71,55,89,72,49,4,15,100,no,73.2,Pass,86
+989,male,some college,none,62,69,92,42,68,59,3,17,100,yes,66.6,Fail,71
+990,female,bachelor's degree,none,66,75,84,81,64,58,4,20,100,no,74,Pass,72
+991,male,high school,Partialy completed,66,87,75,42,60,57,3,20,100,yes,66,Fail,87
+992,female,associate's degree,none,86,60,63,66,60,82,4,19,100,partial yes,67,Pass,93
+993,male,bachelor's degree,none,60,82,92,55,51,53,1,13,100,partial yes,68,Pass,71
+994,male,some college,none,66,97,47,58,53,75,4,14,100,partial yes,64.2,Fail,82
+995,male,some college,none,81,74,81,89,65,47,3,18,100,partial yes,78,Pass,74
+996,male,associate's degree,Partialy completed,90,85,89,69,40,75,1,12,100,partial yes,74.6,Fail,72
+997,male,some college,none,65,89,87,63,57,80,4,11,100,partial yes,72.2,Pass,98
+998,female,bachelor's degree,none,75,100,71,76,69,52,4,13,100,partial yes,78.2,Pass,91
+999,male,associate's degree,Partialy completed,70,82,44,75,56,58,2,20,100,no,65.4,Fail,98
+1000,male,master's degree,Partialy completed,75,65,80,67,72,84,1,17,100,partial yes,71.8,Pass,78
+1001,male,bachelor's degree,none,75,78,86,58,88,80,2,15,100,partial yes,77,Pass,68
+1002,male,bachelor's degree,Partialy completed,85,88,90,91,92,85,1,19,25,partial yes,89,Pass,80
+1003,female,bachelor's degree,none,67,73,70,65,80,90,4,18,45,partial yes,71,Pass,67
+1004,female,bachelor's degree,none,80,70,73,84,65,80.5,3,20,45,no,74.4,Pass,86
+1005,male,some college,Partialy completed,85,90,87,89,90,87,3,19,150,partial yes,88.3,Pass,90
+1006,male,master's degree,none,73,71,66,63,73,85,2,19,150,partial yes,69.2,Pass,80
+1007,female,bachelor's degree,none,85,75,90,88,87,93,3,19,45,partial yes,85,Pass,77
+1008,female,bachelor's degree,Partialy complete,56,72,79,56,67,89,3,15,100,no,71.6,Pass,58
+1009,female,bachelor's degree,none,71,79,79,77,74,88,2,19,60,yes,76,Pass,90
+1010,male,bachelor's degree,none,77,63,73,73,57,87,6,16,75,partial yes,68.6,Pass,80
+1011,male,bachelor's degree,Partialy complete,73,88,77,74,88,90,4,19,75,no,80,Pass,89
+1012,female,bachelor's degree,none,78,70,81,75,83,80,3,15,150,partial yes,77.4,Pass,77
+1013,female,bachelor's degree,none,70,70,80,60,80,91,3,17,25,no,72,Pass,75
+1014,male,bachelor's degree,Partialy complete,65,66,64,56,67,86,1,18,60,yes,63.6,Pass,70
